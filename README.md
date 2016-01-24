@@ -11,7 +11,7 @@
 
 ##### Slack: https://webdev2193.slack.com
 ##### GitBook: https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b
-
+...
 ---
 
 ## Syllabus
