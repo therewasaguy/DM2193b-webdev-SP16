@@ -7,7 +7,5 @@
    * [Midterm](assignments/midterm.md)
    * [Final](assignments/final.md)
    * [Show & Tell](assignments/show_and_tells.md)
+* learning_logs
 
-<!--    * [Show & Tell](assignments/show_and_tell.md)-->
-<!--    * [Midterm](assignments/midterm.md)-->
-<!--    * [Final](assignments/final.md)-->
