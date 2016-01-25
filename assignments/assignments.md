@@ -11,8 +11,4 @@
 
 In addition to regular assignments, there are a few long term assignments.
 
-* [Midterm](midterm.md)
-* [Final](final.md)
-* [Show & Tell](show_and_tells.md)
-
 All due dates can be found in the schedule overview grid. All projects and assignments are subject to change.
