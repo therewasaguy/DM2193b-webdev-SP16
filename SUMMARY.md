@@ -9,4 +9,5 @@
    * [Midterm](assignments/midterm.md)
    * [Final](assignments/final.md)
    * [Project Plan](assignments/project_plan.md)
-
+* [Weekly Detail](weekly_detail/README.md)
+    * [Week 1](weekly_detail/week1.md)
