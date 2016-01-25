@@ -33,14 +33,14 @@
                 <li>Goals of the course</li>
                 <li>Your Learning Goals</li>
                 <li>Syllabus Overview</li>
-                <li>Review Conventions</li>
-                <li>Developer Tools</li>
+                <li>How the Web Works</li>
+                <li>How Web Dev Works</li>
             </ul>
             HW:
             <ul>
-            <li>Setup environment</li>
-            <li>Join our Slack channel</li>
-            <li><a href="mailto:jason.sigal@gmail.com"  title="jason.sigal@gmail.com">Email</a> link to your learning log and course website (due Feb 1)</li>
+            <li>Join our <a href="https://webdev2193.slack.com" target="_blank">Slack channel</a></li>
+            <li>Pick a website. What is the goal of this site? How does the design reflect that goal? Post a link and a short paragraph about it to the HW channel on Slack with hashtag #wk1a. Bonus: Use <a href="https://archive.org/web/" target="_blank">Internet Archive's Wayback Machine</a> to show how the design has changed over time. </li>
+            <li><a href="mailto:jason.sigal@gmail.com"  title="jason.sigal@gmail.com">Email</a> link to your course website (due Feb 1)</li>
             </ul> 
         </td>
         <td valign="top" width="49%"><b>Jan 27<br/> Intro to HTML</b>
@@ -53,6 +53,8 @@
                 <li>HTML</li>
                 <li>Elements, Attributes, Semantics, Comments</li>
                 <li>DOM</li>
+                <li>Review Conventions</li>
+                <li>Developer Tools</li>
                 <li>Discuss HW assignments</li>
             </ul>
             HW:
