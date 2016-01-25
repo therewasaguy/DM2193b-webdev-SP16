@@ -1,6 +1,6 @@
-# Project Plan
+## Intro to Web Development <small>DM-UY 2193/B</small>
 
-## PROJECT PLAN
+# PROJECT PLAN
 
 Refer to http://www.webmonkey.com/2010/02/information_architecture_tutorial for more detailed information. Should be 1 or 2 pages maximum. Be clear, concise, and to the point.
 
