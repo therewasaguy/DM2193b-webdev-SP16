@@ -60,13 +60,13 @@ By the end of this course, student will be able to
 All dates and assignments are **subject to change** at the discretion of the professor, depending on the interests and pace of the class. Any changes will be announced in class, updated on the GitBook (Syllabus), and posted to Slack (discussion forum).
 
 ### [READINGS](readings_resources.html)
-Weekly reading assignments will utilize free online resources and tutorials. There is no required textbook. However, recommendations can be found in the [Readings & Resources](readings_resources.html) section.
+Weekly reading assignments will utilize free online resources and tutorials. There is no required textbook. However, recommendations can be found in the [Readings & Resources](readings_resources.html) section, and students are encouraged to pursue self-guided learning and document / share resources via Learning Logs.
 
 ### EVALUATION & GRADING
 
 ### Attendance
 * Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential.
-* Unexcused absences will affect your grade. Contact the professor IN ADVANCE if you will not be in class (in person or by email is preferred). More than three unexcused absences will result in your grade dropping 5% for each absence.
+* Unexcused absences will affect your grade. Contact the professor IN ADVANCE if you will not be in class (in person or by email is preferred). More than two unexcused absences will result in your grade dropping 5% for each absence.
 * Be on time. Tardiness can affect your grade up to 15% (e.g. from an A to a B-).
 * If you miss an individual class, you are still responsible for the material and will need to cover it on your own.
 * Attendance is required for the midterm and final presentations.
@@ -80,10 +80,10 @@ One of the course goals is to foster an internal community. You are expected to 
 #####Quanitative Grading Overview:
 * Regular Assignments 20%
 * Show & Tell 5%
+* Learning Logs 5%
 * Midterm Project 20%
 * Final Project 25%
 * Self Assessment & Rubric 5%
-* IDM Coursework Documentation 5%
 * Participation 20%
 
 
