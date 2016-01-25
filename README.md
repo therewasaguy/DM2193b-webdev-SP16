@@ -81,10 +81,11 @@ One of the course goals is to foster an internal community. You are expected to 
 * Regular Assignments 20%
 * Show & Tell (two) 5%
 * Learning Logs (at least ten) 5%
-* Midterm Project 20%
+* Ticket to Leave 5%
+* Midterm Project 17.5%
 * Final Project 25%
 * Self Assessment & Rubric 5%
-* Participation 20%
+* Participation 17.5%
 
 
 #### Midterm and Final Grading Overview:
