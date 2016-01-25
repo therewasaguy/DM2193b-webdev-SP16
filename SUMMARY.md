@@ -8,5 +8,5 @@
    * [Learning Logs](Major Assignments/learninglogs.md)
    * [Midterm](assignments/midterm.md)
    * [Final](assignments/final.md)
-   * Project Plan
+   * [Project Plan](assignments/project_plan.md)
 
