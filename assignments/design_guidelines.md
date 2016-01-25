@@ -1,4 +1,4 @@
-# Design Style Guide
+# DESIGN STYLE GUIDE
 
 ## MOOD BOARD
 <b>Post to slack as an image (.jpg, .gif, .png, .svg) or .pdf</b>
