@@ -6,6 +6,7 @@
 * [Major Assignments](assignments/assignments.md)
    * [Show & Tell](assignments/show_and_tells.md)
    * [Learning Logs](assignments/learninglogs.md)
+   * [Ticket To Leave](assignments/ticket_to_leave.md)
    * [Midterm](assignments/midterm.md)
    * [Final](assignments/final.md)
    * [Project Plan](assignments/project_plan.md)
