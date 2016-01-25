@@ -1,16 +1,6 @@
 ## Intro to Web Development <small>DM-UY 2193/B</small>
 
-![NYU](http://engineering.nyu.edu/files/tandon_long_color.png)
-#### Integrated Digital Media • Technology, Culture & Society Department
-
-
-    Jason Sigal <jason.sigal@gmail.com>
-    Spring 2016 • Mondays & Wednesdays • 2:30-4:20PM • Magnet Rm 817 • 3 credit hrs
-    Office hours by appointment or directly after class
-
----
-
-## LEARNING LOGS
+# LEARNING LOGS
 <table>
 <tr>
 <td><p><b>Post to slack. Begin message with "LL: descriptive name" (where descriptive name is a title that describes your learning log).</b></p>
