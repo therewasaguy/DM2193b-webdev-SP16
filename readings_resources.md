@@ -66,6 +66,10 @@
 * [JQuery plugin: Superscrollorama](http://johnpolacek.github.io/superscrollorama)
 * [Javascript vs. JQuery vs. CSS3 Transitions & Transforms](http://davidwalsh.name/css-js-animation)
 
+## Debugging
+* http://discover-devtools.codeschool.com/
+* [p5.js field guide to debugging](http://p5js.org/tutorials/debugging/)
+
 ## User Experience
 * Book: Don’t Make Me Think: A Common Sense Approach to Web Usability by Steve Krug **
 * Book: The Principles of Beautiful Web Design, Second Edition by Jason Beaird *
