@@ -14,7 +14,7 @@
 <table>
 <tr>
 <td><p>Before each class session, three students will share a link with the class. Dates will be posted on the schedule overview and Show and Tells will begin on Feb 3.</p>
-<p><b>Post to slack. Begin message with "S&amp;T: descriptive name" (where descriptive name is a title that describes your show and tell). You will post 2 for the semester. See details below. You can do post A and B in any order you like.</b></p>
+<p><b>Post to slack. Begin message with "S&amp;T: descriptive name" (where descriptive name is a title that describes your show and tell). You will post 2 for the semester. See details below.</b></p>
 
 For post A, select a link to one of the following:
 <ul>
