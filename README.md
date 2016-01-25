@@ -79,8 +79,8 @@ One of the course goals is to foster an internal community. You are expected to 
 
 #####Quanitative Grading Overview:
 * Regular Assignments 20%
-* Show & Tell 5%
-* Learning Logs 5%
+* Show & Tell (two) 5%
+* Learning Logs (at least ten) 5%
 * Midterm Project 20%
 * Final Project 25%
 * Self Assessment & Rubric 5%
