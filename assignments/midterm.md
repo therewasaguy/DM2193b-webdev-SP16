@@ -1,4 +1,4 @@
-#Midterm
+#MIDTERM
 
 ####A responsive website built in HTML, CSS and (optionally) JavaScript.
 
