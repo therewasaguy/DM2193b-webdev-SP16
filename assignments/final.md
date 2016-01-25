@@ -1,4 +1,4 @@
-#Final
+#FINAL
 
 #### A responsive website using a front-end framework and at least one JavaScript library.
 
