@@ -35,6 +35,7 @@
                 <li>Syllabus Overview</li>
                 <li>How the Web Works</li>
                 <li>How Web Dev Works</li>
+                <li>Overview of Tools</li>
             </ul>
             HW:
             <ul>
