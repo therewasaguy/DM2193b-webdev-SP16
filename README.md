@@ -11,6 +11,7 @@
 
 ##### Slack: https://webdev2193.slack.com
 ##### GitBook: https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b
+##### GitHub: http://github.com/therewasaguy/dm2193b-webdev-SP16
 
 ---
 
