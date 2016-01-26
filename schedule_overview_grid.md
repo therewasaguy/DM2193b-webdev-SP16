@@ -20,13 +20,14 @@
 **DUE** - Indicates that a project is due on this date.<br>
 
 <table>
-    <tr>
+    <thead>
         <th width="2%">wk</th>
         <th width="49%">Mondays</th>
         <th width="49%">Wednesdays</th>
-    </tr>
-    <tr><a href="weekly_detail/week1.md">
+    </thead>
+    <tr>
         <td valign="top">1</td>
+        <a href="weekly_detail/week1.md">
         <td valign="top"><b>Jan 25<br/> Setup & Intros</b>
             <ul>
                 <li>Introductions</li>
@@ -43,7 +44,8 @@
             <li>Pick a website. What is the goal of this site? How does the design reflect that goal? Post a link and a short paragraph about it to the HW channel on Slack with hashtag #wk1a. Bonus: Use <a href="https://archive.org/web/" target="_blank">Internet Archive's Wayback Machine</a> to show how the design has changed over time. </li>
             <li><a href="mailto:jason.sigal@gmail.com"  title="jason.sigal@gmail.com">Email</a> link to your course website (due Feb 1)</li>
             </ul> 
-        </td></a>
+        </td>
+        </a>
         <td valign="top" width="49%"><b>Jan 27<br/> Intro to HTML</b>
             <ul>
                 <li>Text Editors</li>
