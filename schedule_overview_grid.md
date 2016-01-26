@@ -28,7 +28,7 @@
     <tr>
         <td valign="top">1</td>
         <td valign="top">
-             <a href="https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/weekly_detail/week1.html">
+             <a href="weekly_detail/week1.html">
         <b>Jan 25<br/> Setup & Intros</b>
 
             <ul>
