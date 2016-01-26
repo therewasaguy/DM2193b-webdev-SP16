@@ -27,8 +27,10 @@
     </thead>
     <tr>
         <td valign="top">1</td>
-        <a href="https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/weekly_detail/week1.html">
-        <td valign="top"><b>Jan 25<br/> Setup & Intros</b>
+        <td valign="top">
+             <a href="https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/weekly_detail/week1.html">
+        <b>Jan 25<br/> Setup & Intros</b>
+
             <ul>
                 <li>Introductions</li>
                 <li>Goals of the course</li>
@@ -38,14 +40,11 @@
                 <li>How Web Dev Works</li>
                 <li>Overview of Tools</li>
             </ul>
-            HW:
-            <ul>
-            <li>Join our Slack channel</li>
-            <li>Pick a website. What is the goal of this site? How does the design reflect that goal? Post a link and a short paragraph about it to the HW channel on Slack with hashtag #wk1a. Bonus: Use Internet Archive's Wayback Machine to show how the design has changed over time. </li>
-            <li>Email link to your course website (due Feb 1)</li>
-            </ul> 
+            HW: 
+           SEE WEEKLY DETAIL
+            
+            </a>
         </td>
-        </a>
         <td valign="top" width="49%"><b>Jan 27<br/> Intro to HTML</b>
             <ul>
                 <li>Text Editors</li>
