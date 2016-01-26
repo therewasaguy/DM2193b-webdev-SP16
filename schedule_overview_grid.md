@@ -40,9 +40,9 @@
             </ul>
             HW:
             <ul>
-            <li>Join our <a href="https://webdev2193.slack.com" target="_blank">Slack channel</a></li>
-            <li>Pick a website. What is the goal of this site? How does the design reflect that goal? Post a link and a short paragraph about it to the HW channel on Slack with hashtag #wk1a. Bonus: Use <a href="https://archive.org/web/" target="_blank">Internet Archive's Wayback Machine</a> to show how the design has changed over time. </li>
-            <li><a href="mailto:jason.sigal@gmail.com"  title="jason.sigal@gmail.com">Email</a> link to your course website (due Feb 1)</li>
+            <li>Join our Slack channel</li>
+            <li>Pick a website. What is the goal of this site? How does the design reflect that goal? Post a link and a short paragraph about it to the HW channel on Slack with hashtag #wk1a. Bonus: Use Internet Archive's Wayback Machine to show how the design has changed over time. </li>
+            <li>Email link to your course website (due Feb 1)</li>
             </ul> 
         </td>
         </a>
