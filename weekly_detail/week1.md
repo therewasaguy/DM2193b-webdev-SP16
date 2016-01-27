@@ -24,3 +24,21 @@
  <li><a href="mailto:jason.sigal@gmail.com"  title="jason.sigal@gmail.com">Email</a> link to your course website (due Feb 1)</li>
  <ul><li>I highly recommend that you get your own web server space from an internet service provider. I recommend <a href="http://www.siteground.com">siteground.com</a> or <a href="https://www.dreamhost.com/promo/edunyu/">dreamhost.com</a>.</li><li>Alternatively, you can receive web server space from IDM's Technology Manager, Elton Kwok, MAGNET 883. Email eltonkwok@nyu.edu to set up your web server space</li><li>IDM's FTP server info: http://sites.bxmc.poly.edu (Use active mode to connect)
  </ul> 
+ </ul>
+ 
+ ## <b>Jan 27<br/> HTML, FTP</b>
+
+#### In Class: 
+<ul>
+ <li>Vocab</li>
+ <li>Text Editors</li>
+ <li>Intro to HTML</li>
+ <li>How to set up your Domain, Hosting</li>
+ <li>(S)FTP - transfer files to your server</li>
+ <li>Discussion prompted by HW assignments</li>
+</ul>
+
+#### HW:
+<ul>
+ <li>Text Editors</li>
+</ul>
