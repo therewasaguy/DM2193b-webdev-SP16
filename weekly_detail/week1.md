@@ -41,17 +41,17 @@
 
 #### HW (DUE MONDAY):
 <ul>
- <li>Set up your Server and FTP Client (like <a href="https://cyberduck.io">Cyberduck</a> or <a href="https://filezilla-project.org/">Filezilla</a>)</li>
+ <li>Set up your Server and FTP Client like <a href="https://cyberduck.io">Cyberduck</a> (recommended) or <a href="https://filezilla-project.org/">Filezilla</a>.</li>
  ~~Options~~
  <ol>
     <li>NYU provides free server space. Email Elton <code>eltonkwok@nyu.edu</code> to set up an appointment and mention a few times you are available to meet with him in Magnet 883. <small>IDM’s FTP server info: http://sites.bxmc.poly.edu (Use active mode)</small></li>
     <li>Purchase your own domain name + server space through <a href="https://www.dreamhost.com/promo/edunyu/">Dreamhost</a> (<a href="https://docs.google.com/presentation/d/1IQMfbvyx_ElgKfaPp1MrWdtSNr_56dnn8LErAbBkmoI/edit?usp=sharing">instructions</a>). Other options include <a href="https://www.siteground.com/">Siteground</a> (<a href="https://docs.google.com/presentation/d/1CFON25fsVAXqxLyAWRMcI5ofKijmtzMwbMMDBKhhACs/edit?usp=sharing">instructions</a>).</li>
  </ol>
- <li><b>Choose Your Own Adventure:</b> Create a website that tells an interactive story using HTML.</li>
+ <li><b>Choose Your Own Adventure:</b> Create a website that tells an interactive story using a few HTML pages.</li>
  <ul>
-    <li> Start by imagining the story—what is a story you can tell with just a few pages? It could be an original story, an interactive folk tale, a game, or a draft of any website you want to build that tells a story, like a personal portfolio.</li>
- <li>Use paper to write/sketch your ideas <em>before</em> you start coding. What content will be shared across all the pages? What elements will be shared across each page, but with different content? How does a user advance from one page to the next? Where is the beginning and end?</li>
- <li>Create a template.html file that has elements that will be shared across all the pages, and describes the type of content that will go on each page using empty/placeholder html elements.</li>
+    <li> Start by imagining the story—what is a story you can tell with just a few pages? It could be an original story, an interactive folk tale, a game, or a draft of any website you want to build that "tells a story" in a more abstract sense, like a fan page or a personal portfolio.</li>
+ <li>Use paper to write/sketch your ideas <em>before</em> you start coding. What content will be shared across all the pages? What elements will be shared across each page, but with different content? How does a user advance from one page to the next? Is there a beginning, end, or home page?</li>
+ <li>Create a template.html file that has elements that will be shared across all the pages. Pick elements that describe the type of content that will go on each page using empty placeholder html elements. You can add more details with <a href="http://www.w3schools.com/tags/tag_comment.asp">comments</a>. </li>
  <li>Use some of the elements we discussed in class, like: <code>a</code> (required), <code>h1</code>, <code>p</code>, <code>img</code>, and/or lists (<code>ul/ol</code> + <code>li</code>).</li>
  <li>Don't worry about how it looks just yet, we'll cover style next week.</li>
  <li>Upload your project to a server using (S)FTP.</li>
