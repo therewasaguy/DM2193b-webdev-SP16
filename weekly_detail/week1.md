@@ -31,6 +31,25 @@
 #### In Class: 
 <ul>
  <li>Vocab</li>
+    <ul>
+    <li>Review:
+        <ul>
+        <li> IP</li>
+        <li> TCP</li>
+        <li> HTTP, FTP</li>
+        <li> DNS</li>
+        <li> URL - Uniform Resource Locator</li>
+        <li> Responsive</li>
+        <li> UX</li>
+        <li> IA</li>
+        <li> Internet vs WWW</li>
+        <li> HTML </li>
+        </ul>
+    <li>New:
+        <ul>
+        <li>Client/Server</li>
+        <li>Client-Side (Front-End), Server-Side (Back-End)</li>
+        </ul>
  <li>Text Editors</li>
  <li>Intro to HTML</li>
  <li>How to set up your Domain, Hosting</li>
@@ -38,6 +57,8 @@
  <li>Discussion prompted by HW assignments</li>
  <li>Review assignment for next week</li>
 </ul>
+
+
 
 #### HW (DUE MONDAY):
 <ul>
