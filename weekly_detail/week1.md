@@ -45,7 +45,7 @@
  ~~Options~~
  <ol>
     <li>NYU provides free server space. Email Elton <code>eltonkwok@nyu.edu</code> to set up an appointment and mention a few times you are available to meet with him in Magnet 883. <small>IDM’s FTP server info: http://sites.bxmc.poly.edu (Use active mode)</small></li>
-    <li>Purchase your own domain name + server space through <a href="dreamhost.com">Dreamhost</a> (<a href="https://docs.google.com/presentation/d/1IQMfbvyx_ElgKfaPp1MrWdtSNr_56dnn8LErAbBkmoI/edit?usp=sharing">instructions</a>) <i>—or—</i> <a href="https://www.siteground.com/">Siteground</a> (<a href="https://docs.google.com/presentation/d/1CFON25fsVAXqxLyAWRMcI5ofKijmtzMwbMMDBKhhACs/edit?usp=sharing">instructions</a>).</li>
+    <li>Purchase your own domain name + server space through <a href="https://www.dreamhost.com/promo/edunyu/">Dreamhost</a> (<a href="https://docs.google.com/presentation/d/1IQMfbvyx_ElgKfaPp1MrWdtSNr_56dnn8LErAbBkmoI/edit?usp=sharing">instructions</a>). Other options include <a href="https://www.siteground.com/">Siteground</a> (<a href="https://docs.google.com/presentation/d/1CFON25fsVAXqxLyAWRMcI5ofKijmtzMwbMMDBKhhACs/edit?usp=sharing">instructions</a>).</li>
  </ol>
  <li><b>Choose Your Own Adventure:</b> Create a website that tells an interactive story using HTML.</li>
  <ul>
