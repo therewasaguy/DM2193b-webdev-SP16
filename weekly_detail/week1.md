@@ -54,10 +54,14 @@
     </ul>
  <li>Text Editors</li>
  <li>Intro to HTML</li>
-
-
-
-
+    <ul>
+    <li>HTML - creates structure for the web, describes the structure of a page</li>
+    <li>Structure: hierarchy, what’s important, meaning, how should it be interpreted by a person (or a computer)</li>
+    <li><b>Elements</b> - describe the structure of a page</li>
+    <li><b>Tags</b> - Elements have opening < > and closing tags < />
+    <li><b>Attributes</b> - Elements have atributes like <code>attribute="value"</code></li>
+    <li>HTML is made up of html, head, title, and body elements</li>
+    </ul>
  <li>How to set up your Domain, Hosting</li>
  <li>(S)FTP - transfer files to your server</li>
  <li>Discussion prompted by HW assignments</li>
