@@ -57,10 +57,16 @@
     <ul>
     <li>HTML - creates structure for the web, describes the structure of a page</li>
     <li>Structure: hierarchy, what’s important, meaning, how should it be interpreted by a person (or a computer)</li>
-    <li><b>Elements</b> - describe the structure of a page</li>
-    <li><b>Tags</b> - Elements have opening < > and closing tags < />
-    <li><b>Attributes</b> - Elements have atributes like <code>attribute="value"</code></li>
+    <li><b><a href="http://www.w3schools.com/html/html_elements.asp">Elements</a></b> - describe the structure of a page</li>
+    <li><b>Element Tags</b> - Elements typically have opening and closing tags, and you can put content in between the tags. <pre><tag>content goes here</pre>
+    <li><b><a href="http://www.w3schools.com/html/html_attributes.asp">Attributes</a></b> - Elements have atributes like <code>attribute="value"</code></li>
     <li>HTML is made up of html, head, title, and body elements</li>
+    <ul>
+        <li>Text</li>
+        <li><a href="Links</a>: <pre> <a href="path">Links</a></pre></li>
+        <li><a href="http://www.w3schools.com/html/html_images.asp">Images</a>: <pre> <img src="path" alt="description of image"></pre></li>
+        <li><a href="http://www.w3schools.com/html/html_lists.asp">Lists</a></li> 
+    <li> absolute url (with http://) vs relative url</li>
     </ul>
  <li>How to set up your Domain, Hosting</li>
  <li>(S)FTP - transfer files to your server</li>
