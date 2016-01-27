@@ -41,7 +41,13 @@
 
 #### HW:
 <ul>
- <li>Set up your server and FTP</li>
+ <li>Set up your Server and FTP Client (like <a href="https://cyberduck.io">Cyberduck</a> or <a href="https://filezilla-project.org/">Filezilla</a>)</li>
+ Options: 
+ <ol>
+    <li>NYU provides free server space. Email Elton <code>eltonkwok@nyu.edu</code> to set up an appointment and mention a few times you are available to meet with him in Magnet 883. <small>IDM’s FTP server info: http://sites.bxmc.poly.edu (Use active mode)</small></li>
+    <li>Set up your own domain name through <a href="dreamhost.com">Dreamhost</a> (<a href="https://docs.google.com/presentation/d/1IQMfbvyx_ElgKfaPp1MrWdtSNr_56dnn8LErAbBkmoI/edit?usp=sharing">instructions</a>) <i>—or—</i> <a href="https://www.siteground.com/">Siteground</a> (<a href="https://docs.google.com/presentation/d/1CFON25fsVAXqxLyAWRMcI5ofKijmtzMwbMMDBKhhACs/edit?usp=sharing">instructions</a>).</li>
+ </ol>
+
  <li>Choose Your Own Adventure: Create a website using HTML that includes hyperlinks across multiple pages. Upload it to your server, and post a link.</li>
  <li>Do an HTML5 tutorial of your choice and complete your first learning log. Some suggestions:<ul>
     <li>HTML & CSS Jon Duckett ch1-6 <small>*ebook available thru <a href="http://poly.libguides.com/ebooks">NYU’s Library website</small></a>
