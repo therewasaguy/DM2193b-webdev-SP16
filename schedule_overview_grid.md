@@ -45,7 +45,9 @@
             
             </a>
         </td>
-        <td valign="top" width="49%"><b>Jan 27<br/> Intro to HTML</b>
+        <td valign="top" width="49%">
+        <a href="weekly_detail/week1.html">
+            <b>Jan 27<br/> Intro to HTML</b>
             <ul>
                 <li>Text Editors</li>
                 <li>Browser Environment</li>
@@ -54,15 +56,14 @@
                 <li>FTP Clients</li>
                 <li>HTML</li>
                 <li>Elements, Attributes, Semantics, Comments</li>
-                <li>DOM</li>
                 <li>Review Conventions</li>
                 <li>Developer Tools</li>
                 <li>Discuss HW assignments</li>
             </ul>
-            HW:
-            <ul><li>Choose your own adventure</li>
-            <li><a href="http://www.w3schools.com/html/" title="w3 schools">HTML5 Tutorial</a></li>
+            HW: See weekly detail
             </ul> 
+        </a>
+
         </td>
     </tr>
     <tr>
@@ -211,6 +212,7 @@
                 <li>Variables</li>
                 <li>Types</li>
                 <li>Debugging</li>
+                <li>DOM</li>
             </ul>            
         </td>
     </tr>
