@@ -39,7 +39,7 @@
  <li>Review assignment for next week</li>
 </ul>
 
-#### HW:
+#### HW (DUE MONDAY):
 <ul>
  <li>Set up your Server and FTP Client (like <a href="https://cyberduck.io">Cyberduck</a> or <a href="https://filezilla-project.org/">Filezilla</a>)</li>
  ~~Options~~
