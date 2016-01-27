@@ -60,7 +60,7 @@
     <li><b><a href="http://www.w3schools.com/html/html_elements.asp">Elements</a></b> - describe the structure of a page</li>
     <li><b>Element Tags</b> - Elements typically have opening and closing tags, and you can put content in between the tags. <pre><tag>content goes here</pre>
     <li><b><a href="http://www.w3schools.com/html/html_attributes.asp">Attributes</a></b> - Elements have atributes like <code>attribute="value"</code></li>
-    <li>HTML is made up of html, head, title, and body elements</li>
+    <li>All HTML pages have the following elements: <code>html</code>, <code>head</code>, <code>title</code>, and <code>body</code></li>
     <ul>
         <li>Text</li>
         <li><a href="Links</a>: <pre> <a href="path">Links</a></pre></li>
