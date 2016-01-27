@@ -57,7 +57,7 @@
  <li>Upload your project to a server using (S)FTP.</li>
  <li>To submit the assignment, post a link to Slack HW channel with #wk1b. Bonus points if you include a photo of your initial paper sketches and a template.html file.</li>
  </ul>
- <li>Do an HTML5 tutorial of your choice. Some suggestions:<ul>
+ <li>Do an HTML5 tutorial of your choice to refresh concepts from class and learn more about HTML. Some suggestions:<ul>
     <li>HTML & CSS Jon Duckett ch1-6 <small>*ebook available thru <a href="http://poly.libguides.com/ebooks">NYU’s Library website</small></a>
     </li>
     <li><a href="http://diveintohtml5.info/table-of-contents.html">Dive Into HTML5</a></li>
