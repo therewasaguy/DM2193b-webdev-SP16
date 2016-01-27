@@ -54,6 +54,10 @@
     </ul>
  <li>Text Editors</li>
  <li>Intro to HTML</li>
+
+
+
+
  <li>How to set up your Domain, Hosting</li>
  <li>(S)FTP - transfer files to your server</li>
  <li>Discussion prompted by HW assignments</li>
