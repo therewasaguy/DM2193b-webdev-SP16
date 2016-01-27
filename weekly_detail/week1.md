@@ -50,6 +50,7 @@
         <li>Client/Server</li>
         <li>Client-Side (Front-End), Server-Side (Back-End)</li>
         </ul>
+    </ul>
  <li>Text Editors</li>
  <li>Intro to HTML</li>
  <li>How to set up your Domain, Hosting</li>
