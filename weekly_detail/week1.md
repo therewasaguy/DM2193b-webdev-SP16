@@ -36,9 +36,19 @@
  <li>How to set up your Domain, Hosting</li>
  <li>(S)FTP - transfer files to your server</li>
  <li>Discussion prompted by HW assignments</li>
+ <li>Review assignment for next week</li>
 </ul>
 
 #### HW:
 <ul>
- <li>Text Editors</li>
+ <li>Set up your server and FTP</li>
+ <li>Choose Your Own Adventure: Create a website using HTML that includes hyperlinks across multiple pages. Upload it to your server, and post a link.</li>
+ <li>Do an HTML5 tutorial of your choice and complete your first learning log.<ul>
+    <li>HTML & CSS Jon Duckett ch1-6* ebook available thru [NYU’s Library website](http://poly.libguides.com/ebooks)
+    </li>
+    <li><a href="http://diveintohtml5.info/table-of-contents.html">Dive Into HTML5</a></li>
+    <li><a href="http://www.w3schools.com/html/">W3 Schools</a></li>
+ </ul>
+ </li>
+
 </ul>
