@@ -32,21 +32,6 @@
 #### In Class: 
 <ul>
  <li>Vocab</li>
-    <ul>
-    <li>Review:
-        <ul>
-        <li> IP</li>
-        <li> TCP</li>
-        <li> HTTP, FTP</li>
-        <li> DNS</li>
-        <li> URL - Uniform Resource Locator</li>
-        <li> Responsive</li>
-        <li> UX</li>
-        <li> IA</li>
-        <li> Internet vs WWW</li>
-        <li> HTML </li>
-        </ul>
-    <li>New:
         <ul>
         <li>Client/Server</li>
         <li>Client-Side (Front-End), Server-Side (Back-End)</li>
@@ -74,7 +59,8 @@
  <li>Review assignment for next week</li>
 </ul>
 
-
+#### Code from class (updated)
+https://d157rqmxrxj6ey.cloudfront.net/jasonsigal/28310/
 
 #### HW (DUE MONDAY):
 <ul>
