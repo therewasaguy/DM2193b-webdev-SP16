@@ -26,7 +26,6 @@
  </ul> 
  </ul>
  
- <span id="jan27></span>
  ## <b>Jan 27<br/> HTML, FTP</b>
 
 #### In Class: 
