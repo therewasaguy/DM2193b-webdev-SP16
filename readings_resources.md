@@ -152,6 +152,10 @@
 
 ## Web Accessibility
 * http://a11yproject.com/
+* http://www.html5accessibility.com/
+* [Bootstrap Accessibility Plugin](https://paypal.github.io/bootstrap-accessibility-plugin/)
+* https://khan.github.io/tota11y/
+* [Accessibility Chrome Dev Tools Extension](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 
 ## Frameworks
 
