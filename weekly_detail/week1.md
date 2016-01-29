@@ -42,7 +42,7 @@
     <li>HTML - creates structure for the web, describes the structure of a page</li>
     <li>Structure: hierarchy, what’s important, meaning, how should it be interpreted by a person (or a computer)</li>
     <li><b><a href="http://www.w3schools.com/html/html_elements.asp">Elements</a></b> - describe the structure of a page</li>
-    <li><b>Element Tags</b> - Elements typically have opening and closing tags, and you can put content in between the tags. <pre>&lttag&gtcontent goes here&lt/&gt</pre>
+    <li><b>Element Tags</b> - Elements typically have opening and closing tags, and you can put content in between the tags. <pre>&lttag&gtcontent goes here&lt/tag&gt</pre>
     <li><b><a href="http://www.w3schools.com/html/html_attributes.asp">Attributes</a></b> - Elements have atributes like <code>attribute="value"</code></li>
     <li>All HTML pages have the following elements: <code>html</code>, <code>head</code>, <code>title</code>, and <code>body</code></li>
     <ul>
