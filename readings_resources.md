@@ -22,12 +22,14 @@
 * Head First HTML5 Programming by Elizabeth & Eric Freeman **
 * A Book Apart: HTML5 for Web Designers by Jeremy Keith
 * [Dive Into HTML5](http://diveintohtml5.info/table-of-contents.html)
+* [List of Free Programming Books: HTML/CSS](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#html--css)
 
 ## CSS
 * Book: [CSS3 for Web Designers](http://www.abookapart.com/products/css3-for-web-designers) by Dan Cederholm
 * [Learn to Code HTML & CSS @ learn.shayhowe.com](http://learn.shayhowe.com/)
 * [Scalable and Modular Architecture for CSS](https://smacss.com/book)
 * [flexbox cheatsheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
+* [List of Free Programming Books: HTML/CSS](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#html--css)
 
 #### SASS
 * [Sass](http://sass-lang.com)
@@ -168,6 +170,7 @@
 
 ##### Bootstrap
 * Bootstrap – http://getbootstrap.com
+* [Bootstrap3 Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap3) (Free book w/ registration)
 * [Bootstrap examples](http://getbootstrap.com/getting-started/#examples)
 * [Bootstrap Cheat Sheet](http://creativealive.com/wp-content/uploads/2014/01/bootstrap3-cheatsheet.pdf)
 * [Bootstrap Grid Examples](http://getbootstrap.com/examples/grid/)
