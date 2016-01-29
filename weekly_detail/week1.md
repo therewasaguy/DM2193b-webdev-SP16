@@ -42,13 +42,14 @@
     <li>HTML - creates structure for the web, describes the structure of a page</li>
     <li>Structure: hierarchy, what’s important, meaning, how should it be interpreted by a person (or a computer)</li>
     <li><b><a href="http://www.w3schools.com/html/html_elements.asp">Elements</a></b> - describe the structure of a page</li>
-    <li><b>Element Tags</b> - Elements typically have opening and closing tags, and you can put content in between the tags. <pre><tag>content goes here</pre>
+    <li><b>Element Tags</b> - Elements typically have opening and closing tags, and you can put content in between the tags. <pre>&lttag&gtcontent goes here&lt/&gt</pre>
     <li><b><a href="http://www.w3schools.com/html/html_attributes.asp">Attributes</a></b> - Elements have atributes like <code>attribute="value"</code></li>
     <li>All HTML pages have the following elements: <code>html</code>, <code>head</code>, <code>title</code>, and <code>body</code></li>
     <ul>
         <li>Text</li>
         <li><a href="Links</a>: <pre> <a href="path">Links</a></pre></li>
-        <li><a href="http://www.w3schools.com/html/html_images.asp">Images</a>: <pre> <img src="path" alt="description of image"></pre></li>
+        <li><a href="http://www.w3schools.com/html/html_images.asp">Images</a>: <pre> &ltimg src="path" alt="description of image"&gt
+        &lt!--comment: images have no closing tag --&gt </pre></li>  
         <li><a href="http://www.w3schools.com/html/html_lists.asp">Lists</a></li> 
     <li> absolute url (with http://) vs relative url</li>
     </ul>
