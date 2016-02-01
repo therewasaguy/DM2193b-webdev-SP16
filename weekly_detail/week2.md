@@ -61,7 +61,13 @@ p, div {
 https://d157rqmxrxj6ey.cloudfront.net/jasonsigal/29538/
 
 ### HW:
-* Start a CSS Tutorial of your choice (recommendations [here](../readings_resources.html))
+* Start a CSS Tutorial of your choice. Some recommendations [here](../readings_resources.html) include:
+    * Book: HTML & CSS by Jon Duckett*
+    * Head First HTML with CSS & XHTML by Elizabeth & Eric Freeman **
+    * Book: [CSS3 for Web Designers](http://www.abookapart.com/products/css3-for-web-designers) by Dan Cederholm
+    * http://learn.shayhowe.com/
+    * [w3 css tutorial](http://www.w3schools.com/css/default.asp)
+    * Many more resources can be found [here](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#html--css) (a list of free programming books!).
 * Read "[How We Really Use the Web](http://www.sensible.com/chapter.html)" and "[Billboard Design 101](http://www.pcworld.com/article/137231/article.html)" from Steve Krug's book <i>Don't Make Me Think</i>.
 * Read "[What You Think You Know About The Web Is Wrong](http://time.com/12933/what-you-think-you-know-about-the-web-is-wrong/)"
-* Start work on your [project plan](../assignments/project_plan.html) for the midterm. 
+* Start work on your [project plan](../assignments/project_plan.html) for the midterm. Be prepared to describe the goal of your website for the class on Wednesday.
