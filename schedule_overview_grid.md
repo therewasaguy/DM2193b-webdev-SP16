@@ -69,7 +69,7 @@
     <tr>
         <td valign="top">2</td>
         <td valign="top">
-        <a href="weekly_detail/week2.md"><b>Feb 1</b><b><br/>Semantic HTML & CSS</b>
+        <a href="weekly_detail/week2.html"><b>Feb 1</b><b><br/>Semantic HTML & CSS</b>
             <ul>
                 <li>Homework Presentations</li>
                 <li>Semantic HTML</li>
