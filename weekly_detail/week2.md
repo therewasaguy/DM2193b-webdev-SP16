@@ -24,14 +24,16 @@
     * Declaration Block
     * Property
     * Value
-    * Comments
+    * Comments: 
+```/*this is a comment/*```
+
 ![](css_anatomy.png)
 * Selector Types:
     * Universal: ```*```
     * Element: ``li``
-    * Pseuo-Element: ``li:first-child``, ``li:before``
     * Class: ```.class-name```
-    * Pseudo-class: ```a:hover```
+    * Pseuo-Element: ``a:hover``, ``li:first-child``, ``li:before``
+    * Pseudo-class: ```.class-name:hover```
     * ID: ```#id-name```
     * Child (direct descendant): ``li > a``
     * Descendant (any child): ``li a``
@@ -55,3 +57,11 @@ p, div {
     * An element's style properties can be automatically inherited from ``body``, or with ``inherit`` to specify that they should inherit from parent element.
     * Read more: https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/#3-inheritance
 
+### Example from class (updated):
+https://d157rqmxrxj6ey.cloudfront.net/jasonsigal/29538/
+
+### HW:
+* Start a CSS Tutorial of your choice (recommendations [here](../readings_resources.html))
+* Read "[How We Really Use the Web](http://www.sensible.com/chapter.html)" and "[Billboard Design 101](http://www.pcworld.com/article/137231/article.html)" from Steve Krug's book <i>Don't Make Me Think</i>.
+* Read "[What You Think You Know About The Web Is Wrong](http://time.com/12933/what-you-think-you-know-about-the-web-is-wrong/)"
+* Start work on your project plan for the midterm. 
