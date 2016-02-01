@@ -68,12 +68,13 @@
     </tr>
     <tr>
         <td valign="top">2</td>
-        <td valign="top"><b>Feb 1</b><b><br/>Semantic HTML & Information Architecture</b>
+        <td valign="top">
+        <a href="weekly_detail/week2.md"><b>Feb 1</b><b><br/>Semantic HTML & CSS</b>
             <ul>
                 <li>Homework Presentations</li>
                 <li>Semantic HTML</li>
-                <li>Intro to Information Architecture</li>
                 <li>Intro to Style / CSS</li>
+
             </ul>
             DUE:
             <ul>
@@ -81,14 +82,15 @@
                 <li>Choose Your Own Adventure</li>
             </ul>
             HW: <ul>
-                <li>CSS Tutorial</li>
+                <li>Start a CSS Tutorial of your choice</li>
                 <li>Read "How We <em>Really</em> Use the Web"</li>
-                <li>Read <a href="http://www.webmonkey.com/2010/02/information_architecture_tutorial">Information Architecture Tutorial<a/></li>
-                <li>Prepare to present project plan on Wednesday</li>
+                <li>Prepare a draft project plan to present on Wednesday. Use <a href="http://www.webmonkey.com/2010/02/information_architecture_tutorial">Information Architecture Tutorial<a/> as a guide</li>
+                </a>
         </td>
         <td valign="top"><b>Feb 3<br/>Information Architecture, UX/UI</b>
             <ul>
                 <li>Review midterm proposals</li>
+
                 <li>Definitions: UX, UI, IxD, IA</li>
                 <li>User Flow / User Stories</li>
                 <li>Moodboards</li>
