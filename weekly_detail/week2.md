@@ -64,4 +64,4 @@ https://d157rqmxrxj6ey.cloudfront.net/jasonsigal/29538/
 * Start a CSS Tutorial of your choice (recommendations [here](../readings_resources.html))
 * Read "[How We Really Use the Web](http://www.sensible.com/chapter.html)" and "[Billboard Design 101](http://www.pcworld.com/article/137231/article.html)" from Steve Krug's book <i>Don't Make Me Think</i>.
 * Read "[What You Think You Know About The Web Is Wrong](http://time.com/12933/what-you-think-you-know-about-the-web-is-wrong/)"
-* Start work on your project plan for the midterm. 
+* Start work on your [project plan](../assignments/project_plan.html) for the midterm. 
