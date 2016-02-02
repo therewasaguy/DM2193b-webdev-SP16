@@ -68,6 +68,6 @@ https://d157rqmxrxj6ey.cloudfront.net/jasonsigal/29538/
     * http://learn.shayhowe.com/
     * [w3 css tutorial](http://www.w3schools.com/css/default.asp)
     * Many more resources can be found [here](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#html--css) (a list of free programming books!).
-* Read "[How We Really Use the Web](http://www.sensible.com/chapter.html)" and "[Billboard Design 101](http://www.pcworld.com/article/137231/article.html)" from Steve Krug's book <i>Don't Make Me Think</i>.
-* Read "[What You Think You Know About The Web Is Wrong](http://time.com/12933/what-you-think-you-know-about-the-web-is-wrong/)"
+* Read "[How We Really Use the Web](http://www.sensible.com/chapter.html)" from Steve Krug's book <i>Don't Make Me Think</i>. If you want, you can also read "[Billboard Design 101](http://www.pcworld.com/article/137231/article.html)" (it will be assigned in a future reading).
+* Skim "[What You Think You Know About The Web Is Wrong](http://time.com/12933/what-you-think-you-know-about-the-web-is-wrong/)"
 * Start work on your [project plan](../assignments/project_plan.html) for the midterm. Be prepared to describe the goal of your website for the class on Wednesday.
