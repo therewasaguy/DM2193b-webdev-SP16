@@ -87,13 +87,12 @@
                 <li>Prepare a draft project plan to present on Wednesday. Use <a href="http://www.webmonkey.com/2010/02/information_architecture_tutorial">Information Architecture Tutorial<a/> as a guide</li>
                 </a>
         </td>
-        <td valign="top"><b>Feb 3<br/>Information Architecture, UX/UI</b>
+        <td valign="top">
+        <a href="weekly_detail/week2.html">
+        <b>Feb 3<br/>Information Architecture, UX/UI</b>
             <ul>
-                <li>Review midterm proposals</li>
-
                 <li>Definitions: UX, UI, IxD, IA</li>
                 <li>User Flow / User Stories</li>
-                <li>Moodboards</li>
                 <li>Wireframes</li>
                 <li>Site Maps</li>
             </ul> 
@@ -103,22 +102,26 @@
             <li>Site Map</li>
             <li>Wireframe</li>
             <li>Revise Project Plan</li>
+            <li>Read "Billboard Design 101"</li>
+            </a>
         </td>
     </tr>
     <tr>
         <td valign="top">3</td>
-        <td valign="top"><b>Feb 8<br/>CSS Basics</b>
+        <td valign="top"><b>Feb 8<br/>Midterm Proposals, CSS pt.2</b>
             <ul>
-                <li>Review Wireframes</li>
+                <li>Show & Tells: James C, Jamie, Nicole</li> 
+                <li>Present Midterm Proposals, Site Maps & Wireframes</li>
                 <li>CSS Continued</li>
                 <li>Intro to Git & GitHub</li>
                 <li>Images</li>
                 <ul>
                 <li>Creative Commons image resources</li>
+                <li>Preparing Images</li>
                 </ui>
                 <br/>
             </ul>
-            DUE: Site Map & Wireframe <br/>
+            DUE: Project Proposal, Site Map & Wireframe <br/>
             HW:
             <ul>
                 <li>
@@ -128,10 +131,10 @@
         </td>
         <td valign="top"><b>Feb 10<br/>Design for the Web</b>
             <ul>
+                <li>Show & Tells: Susie, Tyler</li>
                 <li>Design Guidelines & Brand Books </li>
                 <li>Colorspace</li>
                 <li>Font</li>
-                <li>Preparing Images</li>
                 <li>Grids in Graphic Design</li>
                 <li>Design Mockups</li>
                 <li>Photoshop</li>
