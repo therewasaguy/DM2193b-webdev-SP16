@@ -79,6 +79,7 @@ In Class:
 * Show and Tell Schedule using [Randomizer](http://shiffman.github.io/randomizer/)
 * Discuss Reading
 * Elements of User Experience
+    * http://slides.com/jasonsigal/deck-3
 * Discuss HW
 
 HW: 
