@@ -116,8 +116,9 @@
                 <li>Intro to Git & GitHub</li>
                 <li>Images</li>
                 <ul>
-                <li>Creative Commons image resources</li>
-                <li>Preparing Images</li>
+                    <li>Creative Commons image resources</li>
+                    <li>Preparing Images for the Web</li>
+                    <li>Styling Images</li>
                 </ui>
                 <br/>
             </ul>
