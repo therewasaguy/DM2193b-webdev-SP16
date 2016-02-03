@@ -71,3 +71,20 @@ https://d157rqmxrxj6ey.cloudfront.net/jasonsigal/29538/
 * Read "[How We Really Use the Web](http://www.sensible.com/chapter.html)" from Steve Krug's book <i>Don't Make Me Think</i>. If you want, you can also read "[Billboard Design 101](http://www.pcworld.com/article/137231/article.html)" (it will be assigned in a future reading).
 * Skim "[What You Think You Know About The Web Is Wrong](http://time.com/12933/what-you-think-you-know-about-the-web-is-wrong/)"
 * Start work on your [project plan](../assignments/project_plan.html) for the midterm. Be prepared to describe the goal of your website for the class on Wednesday.
+
+
+## <b>Feb 3<br/>The Elements of User Experience</b>
+
+In Class:
+* Show and Tell Schedule using [Randomizer](http://shiffman.github.io/randomizer/)
+* Discuss Reading
+* Elements of User Experience
+* Discuss HW
+
+HW: 
+* Continue work on your [project plan](../assignments/project_plan.html) for the midterm. Post a draft to Slack. **Be prepared to present a 5 minute project proposal on Monday**.
+* Create a Site Map for your project, or for an existing website
+* Create a Wireframe for your project, or for an existing website
+* Read Steve Krug's chapter "[Billboard Design 101](http://www.pcworld.com/article/137231/article.html)" if you haven't already
+* Continue learning about CSS and HTML on your own—do your second Learning Log.
+* Optional Reading: [Elements of User Experience by Jesse James Garrett](http://www.jjg.net/elements/)
