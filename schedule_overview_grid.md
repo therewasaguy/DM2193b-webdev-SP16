@@ -132,6 +132,7 @@
             <ul>
                 <li>Show & Tells: Susie, Tyler</li>
                 <li>Midterm Proposal Presentations</li>
+                <li>CSS Box Model</li>
                 <li>Grids in Graphic Design</li>
                 <li>Grid System in CSS</li>
                 <li>Display, Clear</li>
