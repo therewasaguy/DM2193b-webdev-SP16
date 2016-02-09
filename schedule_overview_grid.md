@@ -113,7 +113,6 @@
                 <li>Show & Tells: James C, Jamie, Nicole</li> 
                 <li>Present Midterm Proposals, Site Maps & Wireframes</li>
                 <li>CSS Continued</li>
-                <li>Intro to Git & GitHub</li>
                 <li>Images</li>
                 <ul>
                     <li>Creative Commons image resources</li>
@@ -125,26 +124,28 @@
             DUE: Project Proposal, Site Map & Wireframe <br/>
             HW:
             <ul>
-                <li>
-                Put your project on GitHub. Then, update it by adding a CSS file. </li>
                 <li>Read <a href="http://www.lukew.com/ff/entry.asp?981">Visual Hierarchy</a></li>
             </ul>
         </td>
-        <td valign="top"><b>Feb 10<br/>Design for the Web</b>
+        <td valign="top"><b>Feb 10<br/>
+        CSS Positioning</b>
             <ul>
                 <li>Show & Tells: Susie, Tyler</li>
-                <li>Design Guidelines & Brand Books </li>
-                <li>Colorspace</li>
-                <li>Font</li>
+                <li>Midterm Proposal Presentations</li>
                 <li>Grids in Graphic Design</li>
-                <li>Design Mockups</li>
-                <li>Photoshop</li>
-            </ul> 
+                <li>Grid System in CSS</li>
+                <li>Display, Clear</li>
+                <li>Units, Margins, Padding</li>
+            </ul>
+            DUE: Design Guidelines & Mockups<br/>
             HW: 
             <ul>
-            <li>Design Guidelines</li>
-            <li>Design Mockups</li>
-            <li>Revise Project Plan</li>
+            <li>Review: <a href="http://learnlayout.com/">Learn CSS Layout</a></li>
+            <li>HTML/CSS prototype based on your wireframe
+            </li>
+            <li>Optional: <a href="http://www.456bereastreet.com/archive/200501/turning_a_list_into_a_navigation_bar">List to Navigation Bar</a></li>
+            </ul>
+
         </td>
     </tr>
     <tr>
@@ -153,21 +154,22 @@
             President's Day<br/>
             <b><em>NO CLASS</em></b>
         </td>
-        <td valign="top"><b>Feb 17<br/>CSS Positioning</b>
+        <td valign="top"><b>Feb 17<br/>
+        Design for the Web</b>
             <ul>
                 <li>Review Design HW</li>
-                <li>Grid System (CSS)</li>
-                <li>Display, Clear</li>
-                <li>Units, Margins, Padding</li>
-                <li>Styling lists</li>
-            </ul>
-            DUE: Design Guidelines & Mockups<br/>
+                <li>Design Guidelines & Brand Books </li>
+                <li>Colorspace</li>
+                <li>Font</li>
+                <li>Design Mockups</li>
+                <li>Photoshop</li>
+            </ul> 
             HW: 
             <ul>
-            <li>Review: <a href="http://learnlayout.com/">Learn CSS Layout</a></li>
-            <li>Optional: <a href="http://www.456bereastreet.com/archive/200501/turning_a_list_into_a_navigation_bar">List to Navigation Bar</a></li>
-            <li>HTML/CSS prototype based on your wireframe and design guidelines
-            </li></ul>
+            <li>Design Guidelines</li>
+            <li>Design Mockups</li>
+            <li>Revise Project Plan</li>
+
         </td>
     </tr>
     <tr>
@@ -188,8 +190,15 @@
                 <li>Responsive Websites</li>
                 <li>Media Queries</li>
                 <li>Web Standards</li>
+                <li>Intro to Git & GitHub</li>
             </ul> 
-            HW: Redo prototypes, make them responsive, incorporate design elements, prepare for user testing.
+            HW: 
+            
+            <ul>
+                <li>Redo prototypes, make them responsive, incorporate design elements, prepare for user testing.</li>
+                <li>
+                Put your project on GitHub. </li>
+                </ul>
         </td>
     </tr>
     <tr>
