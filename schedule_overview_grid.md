@@ -118,6 +118,7 @@
                     <li>Creative Commons image resources</li>
                     <li>Preparing Images for the Web</li>
                     <li>Styling Images</li>
+                    <li><a href="               <li>                <a href="http://slides.com/jasonsigal/slides">Slides</a></li>
                 </ui>
                 <br/>
             </ul>
@@ -137,8 +138,9 @@
                 <li>Grid System in CSS</li>
                 <li>Display, Clear</li>
                 <li>Units, Margins, Padding</li>
+                <li>
+                <a href="http://slides.com/jasonsigal/css/live#/">Slides</a></li>">Slides</a></li>
             </ul>
-            DUE: Design Guidelines & Mockups<br/>
             HW: 
             <ul>
             <li>Review: <a href="http://learnlayout.com/">Learn CSS Layout</a></li>
@@ -165,6 +167,8 @@
                 <li>Design Mockups</li>
                 <li>Photoshop</li>
             </ul> 
+            Due: HTML/CSS Prototype
+            <br/>
             HW: 
             <ul>
             <li>Design Guidelines</li>
@@ -182,7 +186,7 @@
                 <li>Accessibility / ARIA</li>
                 <li>CSS Advanced Selectors</li>
             </ul>
-            Due: HTML/CSS Prototype
+            DUE: Design Guidelines & Mockups<br/>
         </td>
         <td valign="top"><b>Feb 24
             <br/>
