@@ -11,5 +11,7 @@
    * [Final](assignments/final.md)
    * [Project Plan](assignments/project_plan.md)
 * [Weekly Detail](weekly_detail/README.md)
-    * [Week 1](weekly_detail/week1.md)
-    * [Week 2](weekly_detail/week2.md)
+   * [Week 1](weekly_detail/week1.md)
+   * [Week 2](weekly_detail/week2.md)
+* Week 3
+
