@@ -12,6 +12,6 @@
    * [Project Plan](assignments/project_plan.md)
 * [Weekly Detail](weekly_detail/README.md)
    * [Week 1](weekly_detail/week1.md)
+   * [Week 3](week3.md)
    * [Week 2](weekly_detail/week2.md)
-* [Week 3](week3.md)
 
