@@ -139,7 +139,7 @@
                 <li>Display, Clear</li>
                 <li>Units, Margins, Padding</li>
                 <li>
-                <a href="http://slides.com/jasonsigal/css/live#/">Slides</a></li>">Slides</a></li>
+                <a href="http://slides.com/jasonsigal/css/live#/">Slides</a></li>
             </ul>
             HW: 
             <ul>
@@ -160,12 +160,13 @@
         <td valign="top"><b>Feb 17<br/>
         Design for the Web</b>
             <ul>
-                <li>Review Design HW</li>
+                <li>Show & Tell: Eric & Grace</li>
+                <li>Review HW</li>
                 <li>Design Guidelines & Brand Books </li>
                 <li>Colorspace</li>
                 <li>Font</li>
-                <li>Design Mockups</li>
                 <li>Photoshop</li>
+                <li>Design Mockups</li>
             </ul> 
             Due: HTML/CSS Prototype
             <br/>
