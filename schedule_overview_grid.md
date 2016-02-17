@@ -193,7 +193,7 @@
                 <li>Accessibility / ARIA</li>
                 <li>CSS Advanced Selectors</li>
             </ul>
-            DUE: Design Guidelines & Mockups<br/>
+            DUE: Style Guide<br/>
         </td>
         <td valign="top"><b>Feb 24
             <br/>
