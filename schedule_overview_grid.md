@@ -165,6 +165,7 @@
                 <li>Design Guidelines & Brand Books </li>
                 <li>Colorspace</li>
                 <li>Font</li>
+                <li><a href="http://slides.com/jasonsigal/deck-7/fullscreen">Slides</a></li>
             </ul> 
             Due: HTML/CSS Prototype
             <br/>
