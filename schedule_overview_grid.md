@@ -165,17 +165,22 @@
                 <li>Design Guidelines & Brand Books </li>
                 <li>Colorspace</li>
                 <li>Font</li>
-                <li>Photoshop</li>
-                <li>Design Mockups</li>
             </ul> 
             Due: HTML/CSS Prototype
             <br/>
             HW: 
             <ul>
-            <li>Design Guidelines</li>
-            <li>Design Mockups</li>
+            <li>Create a Style Guide for your website using a program of your choice (it could be Photoshop, or HTML/CSS). Use <a href="http://www.yelp.com/styleguide">Yelp</a> as inspiration. Include sections for:</li>
+            <ul>
+                <li>Color</li>
+                <li>Typography</li>
+                <li>Grid System / Layout</li>
+                <li>Navigation</li>
+                <li>Links & Buttons</li>
+                <li>Optional: Include references to CSS selectors</li>
+                </ul>
             <li>Revise Project Plan</li>
-
+            <li>Keep working on your website</li>
         </td>
     </tr>
     <tr>
