@@ -186,48 +186,51 @@
     </tr>
     <tr>
         <td valign="top">5</td>
-        <td valign="top"><b>Feb 22<br/>User-Centered Design</b>
+        <td valign="top"><b>Feb 22<br/>
+                    Responsive & CSS Transitions</b>
             <ul>
-                <li>Review Prototypes</li>
-                <li>User Testing</li>
-                <li>Accessibility / ARIA</li>
-                <li>CSS Advanced Selectors</li>
+                <li>Responsive vs Mobile First</li>
+                <li>Media Queries</li>
+                <li>Fun w/ CSS3:</li>
+                <ul>
+                    <li>Animations</lu>
+                    <li>Transitions</li>
+                    <li>Filters</li>
+                    <li>Transforms</li>
+                </ul> 
+            </ul>
+            HW:
+            <ul>
+                <li>Redo prototypes, make them responsive, prepare for user testing on Feb 29th (due 2/29)</li>
             </ul>
             DUE: Style Guide<br/>
         </td>
         <td valign="top"><b>Feb 24
-            <br/>
-            Mobile</b>
+            <br/>User-Centered Design</b>
             <ul>
-                <li>Responsive Websites</li>
-                <li>Media Queries</li>
+                <li>Review Prototypes</li>
+                <li>User Testing</li>
                 <li>Web Standards</li>
-                <li>Intro to Git & GitHub</li>
-            </ul> 
-            HW: 
-            
-            <ul>
-                <li>Redo prototypes, make them responsive, incorporate design elements, prepare for user testing.</li>
-                <li>
-                Put your project on GitHub. </li>
-                </ul>
-        </td>
+                <li>Accessibility / ARIA</li>
+                <li>CSS Advanced Selectors</li>
+            </ul>
+            </td>
     </tr>
     <tr>
         <td valign="top">6</td>
         <td valign="top"><b>Feb 29<br>Media and Animations</b>
             <ul>
                 <li>User Test Responsive Prototypes</li>
+                <li>Intro to Git & GitHub</li>
                 <li>HTML5 Audio/Video</li>
                 <li>HTML5 Canvas (Preview)</li>
-                <li>CSS Fun:</li>
-                <ul>
-                    <li>Animations</lu>
-                <li>Transitions</li>
-                <li>Filters</li>
-                <li>Transforms</li>
             </ul>
-            </ul>
+        </ul>
+            HW: 
+            <ul>
+              <li>Put your project on GitHub.</li>
+             </ul>
+
             Due: Responsive Prototypes
             
         </td>
