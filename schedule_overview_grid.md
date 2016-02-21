@@ -171,7 +171,7 @@
             <br/>
             HW: 
             <ul>
-            <li>Create a Style Guide for your website using a program of your choice (it could be Photoshop, or HTML/CSS). Use <a href="http://www.yelp.com/styleguide">Yelp</a> as inspiration. Include sections for:</li>
+            <li>Create a Style Guide for your website using a program of your choice (it could be Photoshop, or HTML/CSS). Use <a href="http://www.yelp.com/styleguide">Yelp</a> as inspiration. Post to Slack with hashtag #wk4a. Include sections for:</li>
             <ul>
                 <li>Color</li>
                 <li>Typography</li>
