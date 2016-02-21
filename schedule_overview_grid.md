@@ -139,7 +139,7 @@
                 <li>Display, Clear</li>
                 <li>Units, Margins, Padding</li>
                 <li>
-                <a href="http://slides.com/jasonsigal/css/live#/">Slides</a></li>
+                <a href="http://slides.com/jasonsigal/css/">Slides</a></li>
             </ul>
             HW: 
             <ul>
@@ -165,7 +165,7 @@
                 <li>Design Guidelines & Brand Books </li>
                 <li>Colorspace</li>
                 <li>Font</li>
-                <li><a href="http://slides.com/jasonsigal/deck-7/fullscreen">Slides</a></li>
+                <li><a href="http://slides.com/jasonsigal/deck-7/">Slides</a></li>
             </ul> 
             Due: HTML/CSS Prototype
             <br/>
