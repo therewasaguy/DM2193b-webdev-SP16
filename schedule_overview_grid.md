@@ -182,6 +182,7 @@
                 </ul>
             <li>Revise Project Plan</li>
             <li>Keep working on your website</li>
+            </ul>
         </td>
     </tr>
     <tr>
