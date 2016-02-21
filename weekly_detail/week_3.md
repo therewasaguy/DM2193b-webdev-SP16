@@ -8,4 +8,4 @@ http://slides.com/jasonsigal/slides
 ## Wednesday
 
 
-Slides: http://slides.com/jasonsigal/css/live
+Slides: http://slides.com/jasonsigal/css
