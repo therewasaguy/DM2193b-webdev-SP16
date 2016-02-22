@@ -192,6 +192,7 @@
             <ul>
                 <li>Responsive vs Mobile First</li>
                 <li>Media Queries</li>
+                <li><a href="https://slides.com/jasonsigal/responsive">Slides</a></li>
                 <li>Fun w/ CSS3:</li>
                 <ul>
                     <li>Animations</lu>
@@ -199,6 +200,7 @@
                     <li>Filters</li>
                     <li>Transforms</li>
                 </ul> 
+                <li>Show & Tells: Polina and Echo</li>
             </ul>
             HW:
             <ul>
