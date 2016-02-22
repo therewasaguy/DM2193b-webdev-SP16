@@ -205,6 +205,7 @@
             HW:
             <ul>
                 <li>Redo prototypes, make them responsive, prepare for user testing on Feb 29th (due 2/29)</li>
+                <li>Read <a href="https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns/?hl=en">Responsive Patterns</a> and <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Guide to Flexbox</a></li> 
             </ul>
             DUE: Style Guide<br/>
         </td>
