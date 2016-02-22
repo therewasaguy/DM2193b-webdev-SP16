@@ -41,13 +41,11 @@
 #### JavaScript preview. <small>Note: This is not required for the midterm, we'll cover more in depth after the break</small>
 * HTML elements can trigger JavaScript functions. A great example is the html `onmousedown="nameOfFunction()"` attribute because it works on desktop and mobile. The function name is case sensitive. Here's a ([demo](http://www.w3schools.com/tags/ev_onclick.asp)).
 * JavaScript lives inside of a script element in the `<head>` of the page:
-        ```
         <script type="text/javascript">
             function myFunction() {
                 // javascript goes here
             }
         </script>
-        ```
 * [document.getElementById("id-of-element")](http://www.w3schools.com/jsref/met_document_getelementbyid.asp) Returns the HTML element as a JavaScript object that we can manipulate.
 * [classList.toggle("name-of-class-to-add-or-remove")](http://www.w3schools.com/jsref/prop_element_classlist.asp) Returns the HTML element as a JavaScript object that we can manipulate.
 
@@ -56,10 +54,10 @@
 * Vendor Prefixes. Some newer CSS properties like `transition` `transform` `filter` `animation` and `flexbox` require vendor prefixes to render properly on all browsers. You can check at [shouldiprefix.com](http://shouldiprefix.com/#flexbox).
 
 
-HW:
-            <ul>
-                <li>Redo prototypes, make them responsive, prepare for user testing on Feb 29th (due 2/29)</li>
-                <li>Read <a href="https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns/?hl=en">Responsive Patterns</a> and <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Guide to Flexbox.</a> Try one of the examples on your own.</li>
-                <li>Read <a href="http://css3.bradshawenterprises.com/">CSS3 Transform, Transition, Animation Tutorial</a></li>
-            </ul>
-            DUE: Style Guide<br/>
+#### HW:
+<ul>
+    <li>Redo prototypes, make them responsive, prepare for user testing on Feb 29th (due 2/29)</li>
+    <li>Read <a href="https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns/?hl=en">Responsive Patterns</a> and <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Guide to Flexbox.</a> Try one of the examples on your own.</li>
+    <li>Read <a href="http://css3.bradshawenterprises.com/">CSS3 Transform, Transition, Animation Tutorial</a></li>
+</ul>
+DUE: Style Guide<br/
