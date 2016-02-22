@@ -187,7 +187,7 @@
     </tr>
     <tr>
         <td valign="top">5</td>
-        <td valign="top"><b>Feb 22<br/>
+        <td valign="top"><a href="https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/weekly_detail/week_5.html"><b>Feb 22<br/>
                     Responsive & CSS Transitions</b>
             <ul>
                 <li>Responsive vs Mobile First</li>
@@ -209,7 +209,7 @@
                 <li>Read <a href="https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns/?hl=en">Responsive Patterns</a> and <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Guide to Flexbox</a></li> 
                 <li>Read <a href="http://css3.bradshawenterprises.com/">CSS3 Transform, Transition, Animation Tutorial</a></li>
             </ul>
-            DUE: Style Guide<br/>
+            DUE: Style Guide<br/></a>
         </td>
         <td valign="top"><b>Feb 24
             <br/>User-Centered Design</b>
