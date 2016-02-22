@@ -192,7 +192,6 @@
             <ul>
                 <li>Responsive vs Mobile First</li>
                 <li>Media Queries</li>
-                <li><a href="https://slides.com/jasonsigal/responsive">Slides</a></li>
                 <li>Fun w/ CSS3:</li>
                 <li>JavaScript: document.getElementById</li>
                 <ul>
@@ -210,6 +209,8 @@
                 <li>Read <a href="http://css3.bradshawenterprises.com/">CSS3 Transform, Transition, Animation Tutorial</a></li>
             </ul>
             DUE: Style Guide<br/></a>
+
+                --> <a href="https://slides.com/jasonsigal/responsive">Slides</a></li>
         </td>
         <td valign="top"><b>Feb 24
             <br/>User-Centered Design</b>
