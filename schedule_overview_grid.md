@@ -194,6 +194,7 @@
                 <li>Media Queries</li>
                 <li><a href="https://slides.com/jasonsigal/responsive">Slides</a></li>
                 <li>Fun w/ CSS3:</li>
+                <li>JavaScript: document.getElementById</li>
                 <ul>
                     <li>Transition</li>
                     <li>Filter</li>
