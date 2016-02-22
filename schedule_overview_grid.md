@@ -195,10 +195,10 @@
                 <li><a href="https://slides.com/jasonsigal/responsive">Slides</a></li>
                 <li>Fun w/ CSS3:</li>
                 <ul>
-                    <li>Animations</lu>
-                    <li>Transitions</li>
-                    <li>Filters</li>
-                    <li>Transforms</li>
+                    <li>Transition</li>
+                    <li>Filter</li>
+                    <li>Transform</li>
+                    <li>Animation</li>
                 </ul> 
                 <li>Show & Tells: Polina and Echo</li>
             </ul>
@@ -206,6 +206,7 @@
             <ul>
                 <li>Redo prototypes, make them responsive, prepare for user testing on Feb 29th (due 2/29)</li>
                 <li>Read <a href="https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns/?hl=en">Responsive Patterns</a> and <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Guide to Flexbox</a></li> 
+                <li>Read <a href="http://css3.bradshawenterprises.com/">CSS3 Transform, Transition, Animation Tutorial</a></li>
             </ul>
             DUE: Style Guide<br/>
         </td>
