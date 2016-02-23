@@ -49,6 +49,10 @@
 * [document.getElementById("id-of-element")](http://www.w3schools.com/jsref/met_document_getelementbyid.asp) Returns the HTML element as a JavaScript object that we can manipulate.
 * [classList.toggle("name-of-class-to-add-or-remove")](http://www.w3schools.com/jsref/prop_element_classlist.asp) Returns the HTML element as a JavaScript object that we can manipulate.
 
+#### Code from class
+https://d157rqmxrxj6ey.cloudfront.net/jasonsigal/36163/
+
+
 #### More things that came up in class:
 * &#9776; [CSS Tricks: Three line menu navigation](https://css-tricks.com/three-line-menu-navicon/). Find more special html/unicode characters [here](http://unicode-table.com/en/).
 * Vendor Prefixes. Some newer CSS properties like `transition` `transform` `filter` `animation` and `flexbox` require vendor prefixes to render properly on all browsers. You can check at [shouldiprefix.com](http://shouldiprefix.com/#flexbox).
