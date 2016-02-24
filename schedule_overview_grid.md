@@ -110,7 +110,7 @@
         <td valign="top">3</td>
         <td valign="top"><b>Feb 8<br/>Midterm Proposals, CSS pt.2</b>
             <ul>
-                <li>Show & Tells: James C, Jamie, Nicole</li> 
+                <li>Show & Tells: James T, Jamie, Nicole</li> 
                 <li>Present Midterm Proposals, Site Maps & Wireframes</li>
                 <li>CSS Continued</li>
                 <li>Images</li>
@@ -221,6 +221,7 @@
                 <li>Accessibility / ARIA</li>
                 <li>CSS Advanced Selectors</li>
             </ul>
+            S&T: Cindy
             </td>
     </tr>
     <tr>
@@ -238,11 +239,11 @@
               <li>Put your project on GitHub.</li>
              </ul>
 
-            Due: Responsive Prototypes
-            
+            Due: Responsive Prototypes<br/>
+            S&T: George, Camille, James C
         </td>
-        <td valign="top"><b>Mar 2<br>
-            JavaScript Intro:</b>
+        <td valign="top"><b>Mar 2<br></b>
+            <b>JavaScript Intro:</b>
             <ul>
                 <li>History</li>
                 <li>Syntax</li>
@@ -251,6 +252,7 @@
                 <li>Debugging</li>
                 <li>DOM</li>
             </ul>            
+            S&T: Joon Hee, Stephen, Zhijian
         </td>
     </tr>
 
