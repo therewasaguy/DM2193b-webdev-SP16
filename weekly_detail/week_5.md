@@ -64,4 +64,22 @@ https://d157rqmxrxj6ey.cloudfront.net/jasonsigal/36163/
     <li>Read <a href="https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns/?hl=en">Responsive Patterns</a> and <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Guide to Flexbox.</a> Try one of the examples on your own.</li>
     <li>Read <a href="http://css3.bradshawenterprises.com/">CSS3 Transform, Transition, Animation Tutorial</a></li>
 </ul>
-DUE: Style Guide<br/
+DUE: Style Guide<br/>
+
+## Wednesday Feb 24
+* CSS Transform, Transition, Filter, Animation (continued)
+* Review: CSS Display property
+    * By default, all HTML elements are either `display:inline` (e.g. `<span>`) or `display:block` (e.g. `<div>`).
+    * `float` `clear`
+* Flex Box:
+    * Containers can have:
+        * `display: flex`
+        * `flex-flow: [flex-direction] | [flex-flow]`
+            * `flex-direction: row | column | row-reverse | column-reverse | initial | inherit`
+            * Default value is "row".
+            * `flex-wrap: wrap | no-wrap | wrap-reverse` Default value is "nowrap".
+
+
+
+
+    * 
