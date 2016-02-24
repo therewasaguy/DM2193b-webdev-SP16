@@ -71,15 +71,15 @@ DUE: Style Guide<br/>
 * Review: CSS Display property
     * By default, all HTML elements are either `display:inline` (e.g. `<span>`) or `display:block` (e.g. `<div>`).
     * `float` `clear`
-* Flex Box:
+* Flex Box basics:
     * Containers can have:
         * `display: flex`
         * `flex-flow: [flex-direction] | [flex-flow]`
             * `flex-direction: row | column | row-reverse | column-reverse | initial | inherit`
             * Default value is "row".
             * `flex-wrap: wrap | no-wrap | wrap-reverse` Default value is "nowrap".
-
-
-
-
-    * 
+    * Items within containers can have:
+        * [flex](http://www.w3schools.com/cssref/css3_pr_flex.asp)
+        * order
+    
+    
