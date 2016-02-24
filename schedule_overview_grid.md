@@ -212,16 +212,25 @@
 
                 --> <a href="https://slides.com/jasonsigal/responsive">Slides</a></li>
         </td>
-        <td valign="top"><b>Feb 24
-            <br/>User-Centered Design</b>
+        <td valign="top"><b>
+        
+        
+        <a href="https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/weekly_detail/week_5.html"> Feb 24
+            <br/>
+            
+            Review CSS and HTML, User-Centered Design</b>
+            </a>
             <ul>
+<a href="https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/weekly_detail/week_5.html">
                 <li>Review Prototypes</li>
                 <li>User Testing</li>
                 <li>Web Standards</li>
-                <li>Accessibility / ARIA</li>
+                <li>Accessibility w/ Claire Kearny-Volpe from NYU Ability Lab</li>
                 <li>CSS Advanced Selectors</li>
             </ul>
+    </a>
             S&T: Cindy
+            </a>
             </td>
     </tr>
     <tr>
