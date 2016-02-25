@@ -81,3 +81,6 @@ DUE: Style Guide<br/>
     * Items within containers can have:
         * [flex](http://www.w3schools.com/cssref/css3_pr_flex.asp)
         * order
+
+HW:
+* Redo prototypes, make them responsive, prepare for user testing on Monday
