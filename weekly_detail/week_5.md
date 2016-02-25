@@ -81,7 +81,7 @@ DUE: Style Guide<br/>
     * Items within containers can have:
         * [flex](http://www.w3schools.com/cssref/css3_pr_flex.asp)
         * order
-* Guest Claire Kearney-Volpe from [NYU's Ability Center](http://abilitylab.nyu.edu/) on Web Accessibility and User-Centered Design ([slides](https://www.dropbox.com/s/fr4bs665j02jffl/webaccess.pptx?dl=0))
+* Guest Claire Kearney-Volpe from [NYU's Ability Lab](http://abilitylab.nyu.edu/) on Web Accessibility and User-Centered Design ([slides](https://www.dropbox.com/s/fr4bs665j02jffl/webaccess.pptx?dl=0))
 
 HW:
 * Continue work on your midterm/prototypes, make them responsive, prepare for user testing on Monday
