@@ -83,4 +83,4 @@ DUE: Style Guide<br/>
         * order
 
 HW:
-* Redo prototypes, make them responsive, prepare for user testing on Monday
+* Continue work on your midterm/prototypes, make them responsive, prepare for user testing on Monday
