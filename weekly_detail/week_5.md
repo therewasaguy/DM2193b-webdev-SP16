@@ -81,6 +81,11 @@ DUE: Style Guide<br/>
     * Items within containers can have:
         * [flex](http://www.w3schools.com/cssref/css3_pr_flex.asp)
         * order
+    * Example from class: [Dropbox](https://www.dropbox.com/sh/9xcre4938sz9i29/AAABS-6TsAmz4Fgccw2p5NFta?dl=0)
+    * Similar example on my [Thimble](https://d157rqmxrxj6ey.cloudfront.net/jasonsigal/36833/)
+    * Similar example for Nav ul li `display:inline-block` on my [Thimble](https://d157rqmxrxj6ey.cloudfront.net/jasonsigal/36842/)
+
+
 * Use `calc` to calculate dimensions (i.e. max-width) with both fluid (%) and fixed (px) numbers. Example syntax: `calc(50% - 10px)`. For example, this would be useful if you need to account for the margins that surround an element (or border and padding if your `box-sizing` is the default of `content-box` instead of `border-box`).
 * Guest Claire Kearney-Volpe from [NYU's Ability Lab](http://abilitylab.nyu.edu/) on Web Accessibility and User-Centered Design ([slides](https://www.dropbox.com/s/fr4bs665j02jffl/webaccess.pptx?dl=0))
 
