@@ -52,4 +52,6 @@
 
 ### HW
 * Read up on [GitHub](https://guides.github.com/)
-* Post your project to GitHub and share a link with the class
+* Post your project to your personal GitHub.
+* Submitting a pull request to [this github repo](https://github.com/therewasaguy/class_github_video) that adds a link to your github account.
+* Review the [Non-Quiz](https://www.dropbox.com/s/uw4yz9bg8nq0rhe/webdev2193NonQuiz1.pdf?dl=0) and come to the next class with any questions related to this or your midterm projects / self learning 
