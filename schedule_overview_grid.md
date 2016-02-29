@@ -247,6 +247,7 @@
             <ul>
               <li>Put your project on GitHub.</li>
               <li>Keep working on midterms</li>
+              <li>Review the Non-Quiz and come to next class with questions</li>
              </ul>
 
             Due: Responsive Prototypes<br/>
