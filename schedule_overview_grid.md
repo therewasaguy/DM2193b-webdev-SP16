@@ -235,7 +235,7 @@
     </tr>
     <tr>
         <td valign="top">6</td>
-        <td valign="top"><b>Feb 29<br>User Test, Git/Github, Audio/Video, Review</b>
+        <td valign="top"><a href="https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/weekly_detail/week_6.html"><b>Feb 29<br>User Test, Git/Github, Audio/Video, Review</b>
             <ul>
                 <li>User Test Responsive Prototypes</li>
                 <li>Intro to Git & GitHub</li>
@@ -246,10 +246,12 @@
             HW: 
             <ul>
               <li>Put your project on GitHub.</li>
+              <li>Keep working on midterms</li>
              </ul>
 
             Due: Responsive Prototypes<br/>
             S&T: George, Camille, James C
+            </a>
         </td>
         <td valign="top"><b>Mar 2<br></b>
             <b>HTML Forms & JavaScript Intro:</b>
