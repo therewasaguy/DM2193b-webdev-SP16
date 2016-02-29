@@ -3,6 +3,7 @@
 
 ## Monday 2/29
 * Review Midterm Guidelines
+* Office Hours reminder: by appointment, or [additional office hours on Wednesday](https://calendar.google.com/calendar/selfsched?sstoken=UUNfTDZzX1BtWUJxfGRlZmF1bHR8NWQxNmRiM2JiYTc4OTIwOGU5MTQ1MzFiNjBhOWFiZDg)
 * Show & Tells: George, Camille, James C
 * [User Testing](https://slides.com/jasonsigal/user-centered-design) (slides)
 * User Test Responsive Prototypes
