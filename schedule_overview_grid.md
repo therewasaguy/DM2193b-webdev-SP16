@@ -235,14 +235,14 @@
     </tr>
     <tr>
         <td valign="top">6</td>
-        <td valign="top"><b>Feb 29<br>Media and Animations</b>
+        <td valign="top"><b>Feb 29<br>User Test, Git/Github, Audio/Video, Review</b>
             <ul>
                 <li>User Test Responsive Prototypes</li>
                 <li>Intro to Git & GitHub</li>
                 <li>HTML5 Audio/Video</li>
-                <li>HTML5 Canvas (Preview)</li>
+                <li>Review Topics</li>
+                <li>Non-Quiz?</li>
             </ul>
-        </ul>
             HW: 
             <ul>
               <li>Put your project on GitHub.</li>
@@ -252,7 +252,7 @@
             S&T: George, Camille, James C
         </td>
         <td valign="top"><b>Mar 2<br></b>
-            <b>JavaScript Intro:</b>
+            <b>HTML Forms & JavaScript Intro:</b>
             <ul>
                 <li>History</li>
                 <li>Syntax</li>
