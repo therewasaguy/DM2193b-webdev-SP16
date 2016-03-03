@@ -54,7 +54,59 @@
 * Review the [Non-Quiz](https://www.dropbox.com/s/uw4yz9bg8nq0rhe/webdev2193NonQuiz1.pdf?dl=0) and come to the next class with any questions related to this or your midterm projects / self learning 
 
 # Wednesday 3/2
-##JavaScript (JS)
+## Grid Review
+* [Example from class](https://www.dropbox.com/sh/3hpvsp2odfkjh42/AAAJ8NtZpxKa37UaHUXBkXfVa?dl=0)
+* Based on [this Grid Tutorial](http://www.w3schools.com/css/css_rwd_grid.asp) recommended by Tyler
+
+## Forms & User Input
+Forms and Input elements allow the user to interact and submit information. Typically forms "submit" to a server with a GET or POST request.
+* A `<form>` element wraps one or more elements that accept user input. Their `name` attribute determines the name for a set of name-value pairs (often referred to as "key-value pairs"). The form has two important attributes:
+ * ```action``` attribute determines a url that the form will submit its data
+ * ```method``` is an HTTP request method, either `get` (default) or `post`. A get request is the type of request we make with our browsers when we load a webpage, and the result will look something like this: http://formactionurl.com/?key=value&key2=value2. 
+* `<input>` has a `type` attribute. There are many different types including
+  * `text` - text input
+  * `radio` - radio button. A set of radio buttons shares a `name` and only one of them can be selected. Each has a unique `value`. That value becomes the value for that name/key.
+  * `color` colorpicker
+  * `search`
+  * `email`
+  * `password`
+  * `date`
+  * `button` - same as a `<button>` element
+  * `submit` - **button that submits the form**
+  * Read more about types [here](http://www.w3schools.com/html/html_form_input_types.asp) and about input attributes [here](http://www.w3schools.com/html/html_form_attributes.asp).
+
+* `<label>` is a way to label a form element. Its attribute `for="name"` determines the name of the input element it references.
+* `<select>` - a dropdown with several `<option>` elements. The select has a ```name``` attribute, and can have a ```multiple``` attribute to allow selection of multiple options. Read more [here](http://www.w3schools.com/tags/tag_select.asp).
+
+In our [example in class](https://www.dropbox.com/s/1euourpmllpe1bc/index.html?dl=0), we submitted a form to the Spotify API that looked like [this](https://api.spotify.com/v1/search?q=hello&type=artist).
+
+
+```
+  <form action="https://api.spotify.com/v1/search" method="GET">
+
+    <!-- a text input fills out the q= value -->
+    <label for="q">Enter a search query</label>
+    <input name="q" type="text" placeholder="Enter Text">
+
+    <br/>
+
+    <!-- two radio buttons share the same name, to fill out the type of thing we're searching for, either type=artist or type=track -->
+    <label for="type">Choose a type</label><br/>
+
+    <label for="artist">Artist</label>
+    <input id="artist" name="type" type="radio" value="artist">
+    
+    <label for="track">Track</label>
+    <input id="track" name="type" type="radio" value="track">
+
+    <input type="submit">
+     Click to submit
+    </input>
+  </form>
+```
+
+
+##JavaScript (JS) <small>(We did not cover this, will cover it after Spring Break)</small>
 If HTML is the content, and CSS is the presentation, then JS is the behavior of your website. JS adds interactivity—it can respond to user interaction—and it makes the site more dynamic.
 
 Use JavaScript to **access and modify HTML/CSS content** from your website. For [example](https://d157rqmxrxj6ey.cloudfront.net/jasonsigal/35860/), we can change the class to apply a whole new set of CSS rules.
