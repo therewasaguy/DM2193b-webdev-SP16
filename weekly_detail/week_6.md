@@ -213,3 +213,4 @@ sayHi("Jason");
 ### Further Reading (over break)
 * http://jsforcats.com/
 * http://www.w3schools.com/js/js_datatypes.asp
+* Many additional resources are listed in our [Readings & Resources](https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/readings_resources.html) page
