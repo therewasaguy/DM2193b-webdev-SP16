@@ -118,7 +118,7 @@
                     <li>Creative Commons image resources</li>
                     <li>Preparing Images for the Web</li>
                     <li>Styling Images</li>
-                    <li><a href="               <li>                <a href="http://slides.com/jasonsigal/slides">Slides</a></li>
+                    <li><a  href="http://slides.com/jasonsigal/slides">Slides</a></li>
                 </ui>
                 <br/>
             </ul>
