@@ -46,19 +46,13 @@ Objects can have **Properties** (Variables that are part of the, **Events**, and
 The document allows us to access Elements with methods like
 `document.getElementById('my-id');` ([more info](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById))
 
-
-##### DOM Element Object
-A few useful properties of all DOM element objects:
-* `element.innerHTML` Sets or returns the content of an element
-* `element.classList` Returns the className(s) of an element. The classList has useful methods: `add()`, `remove()`, and `toggle()`
-
 ### Variables
 JavaScript variables store data whose value may vary (hence the name variable). Variables can be declared with a statement that gives them a name `var myName;`.
 
-#### Variables & Data Types
+### Data Types
 Here are a few examples of assigning variables for different data types:
 
-#####Strings
+##### Strings
 ```
 var myString = "some text"
 var myString = 'some text'
@@ -78,38 +72,19 @@ var y = 12.32139021 // float
 var raining = true;
 var snowing = false;```
 
-##### DOM Elements
+#### Special DataType: DOM Element
+
 Cache a reference for a "DOM Query":<br/>
 ```
 var myDiv = document.getElementById('my-id');
 var listItems = document.querySelectorAll('li.ingredients'); // CSS selector
 ```
 
-##### Arrays [ ]
-```
-var students = ['Joon Hee', 'Stephen', 'Zhijian'];
-var things = [3, 'dog', true, '3']; // arrays can mix types (be careful with this!)
-```
+A few useful properties of all DOM element objects:
+* `element.innerHTML` Sets or returns the content of an element
+* `element.classList` Returns the className(s) of an element. The classList has useful methods: `add()`, `remove()`, and `toggle()`
 
-
-##### Objects { }
-Objects contain values with names. This is known as a "key : value" pair.
-```
-var restaurantData = {
-  name: "Morimoto",
-  city: "New York",
-  cuisine: "Japanese",
-  thumbsUp: 4,
-  thumbsDown: 1
-}
-
-console.log("the name of the restaurant is " + restaurantData.name + " and it is located in " + restaurantData.city);
-
-// returns:
-// the name of the restaurant is Morimoto and it is located in New York
-```
-
-###Expressions
+### Expressions
 Expressions are a combination of values, variables and operators that convert to a value. For example, we can use arithmetic[ operators](http://www.w3schools.com/js/js_arithmetic.asp) like `+` `-` `/` `*`. Modulo (`%`) returns the division remainder, `++` increments and `--` decrements.
 
 ```
@@ -118,16 +93,6 @@ var y = x % 2;
 ```
 
 JavaScript also provides special methods for working with [Numbers](http://www.w3schools.com/js/js_number_methods.asp) and working with [Strings](http://www.w3schools.com/js/js_string_methods.asp).
-
-##### Boolean / Comparison and Logical Operators
-Evaluating whether a statement is true or false can be very powerful. Operators like `<` `>` `==` (equal) are very useful.
-
-```
-1 == "1" // evaluates to true
-1 === "1" // evaluates to false, because a String and a Number are not strictly equal.
-```
-
-[Read more](http://www.w3schools.com/js/js_comparisons.asp)
 
 ### Events
 `element.addEventListener('click', myFunction, false);`
@@ -162,3 +127,43 @@ sayHi("Jason");
 * http://jsforcats.com/
 * http://www.w3schools.com/js/js_datatypes.asp
 * Many additional resources are listed in our [Readings & Resources](https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/readings_resources.html) page
+
+
+# Wednesday 3/23
+We'll keep learning about JS including Arrays, Objects, Logic and Loops
+
+##### Boolean / Comparison and Logical Operators
+Evaluating whether a statement is true or false can be very powerful. Operators like `<` `>` `==` (equal) are very useful.
+
+```
+1 == "1" // evaluates to true
+1 === "1" // evaluates to false, because a String and a Number are not strictly equal.
+```
+
+[Read more](http://www.w3schools.com/js/js_comparisons.asp)
+
+
+##### Arrays [ ]
+```
+var students = ['Joon Hee', 'Stephen', 'Zhijian'];
+var things = [3, 'dog', true, '3']; // arrays can mix types (be careful with this!)
+```
+
+
+##### Objects { }
+Objects contain values with names. This is known as a "key : value" pair.
+```
+var restaurantData = {
+  name: "Morimoto",
+  city: "New York",
+  cuisine: "Japanese",
+  thumbsUp: 4,
+  thumbsDown: 1
+}
+
+console.log("the name of the restaurant is " + restaurantData.name + " and it is located in " + restaurantData.city);
+
+// returns:
+// the name of the restaurant is Morimoto and it is located in New York
+```
+
