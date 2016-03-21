@@ -292,7 +292,9 @@
 
     <tr>
         <td valign="top">8</td>
-        <td valign="top"><b>Mar 21</b><br>
+        <td valign="top">
+          <a href="https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/weekly_detail/week_7.html">
+            <b>Mar 21</b><br>
             <b>JavaScript + DOM</b>
             <ul>
                 <li>create/getElement</li>
@@ -306,7 +308,7 @@
                 <li>Arrays</li>
                 <li>Loops</li>
                 <li>Objects</li>
-            </ul>         
+            </ul>   </a>      
         </td>
     </tr>
 
