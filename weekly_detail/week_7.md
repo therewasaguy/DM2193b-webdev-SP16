@@ -189,6 +189,10 @@ console.log("the name of the restaurant is " + restaurantData.name + " and it is
 // the name of the restaurant is Morimoto and it is located in New York
 ```
 
+## Examples From Class
+https://www.dropbox.com/sh/71x0y0r8eag7yxv/AACb5W8V3DRuIIrbj4oJs59-a?dl=0
+
 ## HW (due next class, as usual):
+- Read/do [W3's JavaScript tutorial](http://www.w3schools.com/js/default.asp). Focus especially on [Events](http://www.w3schools.com/js/js_events.asp), [Functions](http://www.w3schools.com/js/js_functions.asp), [Objects](http://www.w3schools.com/js/js_objects.asp), [Scope](http://www.w3schools.com/js/js_scope.asp).
 - Create a calculator using HTML, CSS and JavaScript. It doesn't need to be a normal calculator, you can do something more abstract, like add Strings or Images instead of numbers. But it should accept user input, and react to events with functions that modify the DOM.
-- Upload to your GitHub, and FTP to your server, then post links to both in the Slack's #hw channel with hashtag #hw7
+- Upload your calculator to your GitHub, and FTP to your server, then post links to both in the Slack's #hw channel with hashtag #hw7
