@@ -128,7 +128,7 @@ for (var i = 1; i <= 10; i++) {
 ### Code From Monday's Class
 https://www.dropbox.com/sh/wol2rkdfri60bbb/AAC97JY9EHml-Ehle1MbL1Z8a?dl=0
 
-
+---
 # Wednesday 3/23
 We'll keep learning about JS including Functions, Events, Objects, Logic and (more) Loops
 
@@ -189,3 +189,6 @@ console.log("the name of the restaurant is " + restaurantData.name + " and it is
 // the name of the restaurant is Morimoto and it is located in New York
 ```
 
+## HW (due next class, as usual):
+- Create a calculator using HTML, CSS and JavaScript. It doesn't need to be a normal calculator, you can do something more abstract, like add Strings or Images instead of numbers. But it should accept user input, and react to events with functions that modify the DOM.
+- Upload to your GitHub, and FTP to your server, then post links to both in the Slack's #hw channel with hashtag #hw7
