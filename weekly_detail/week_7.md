@@ -94,6 +94,44 @@ var y = x % 2;
 
 JavaScript also provides special methods for working with [Numbers](http://www.w3schools.com/js/js_number_methods.asp) and working with [Strings](http://www.w3schools.com/js/js_string_methods.asp).
 
+##### Arrays [ ]
+```
+var students = ['Joon Hee', 'Stephen', 'Zhijian'];
+var things = [3, 'dog', true, '3']; // arrays can mix types (be careful with this!)
+```
+
+### If Statement
+
+```
+var something = true;
+
+if (something == true) {
+  // do this
+} else {
+  // do this
+}
+```
+
+### For Loops
+```
+// print numbers 1 through 10 to the console
+for (var i = 1; i <= 10; i++) {
+  console.log(i);
+}
+```
+
+### Further Reading
+* http://jsforcats.com/
+* http://www.w3schools.com/js/js_datatypes.asp
+* Many additional resources are listed in our [Readings & Resources](https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/readings_resources.html) page
+
+### Code From Monday's Class
+https://www.dropbox.com/sh/wol2rkdfri60bbb/AAC97JY9EHml-Ehle1MbL1Z8a?dl=0
+
+
+# Wednesday 3/23
+We'll keep learning about JS including Functions, Events, Objects, Logic and (more) Loops
+
 ### Events
 `element.addEventListener('click', myFunction, false);`
 
@@ -122,16 +160,6 @@ addNumbers(3, 5);
 sayHi("Jason");
 ```
 
-
-### Further Reading (over break)
-* http://jsforcats.com/
-* http://www.w3schools.com/js/js_datatypes.asp
-* Many additional resources are listed in our [Readings & Resources](https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/readings_resources.html) page
-
-
-# Wednesday 3/23
-We'll keep learning about JS including Arrays, Objects, Logic and Loops
-
 ##### Boolean / Comparison and Logical Operators
 Evaluating whether a statement is true or false can be very powerful. Operators like `<` `>` `==` (equal) are very useful.
 
@@ -142,12 +170,6 @@ Evaluating whether a statement is true or false can be very powerful. Operators 
 
 [Read more](http://www.w3schools.com/js/js_comparisons.asp)
 
-
-##### Arrays [ ]
-```
-var students = ['Joon Hee', 'Stephen', 'Zhijian'];
-var things = [3, 'dog', true, '3']; // arrays can mix types (be careful with this!)
-```
 
 
 ##### Objects { }
