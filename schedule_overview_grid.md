@@ -300,15 +300,20 @@
                 <li>create/getElement</li>
                 <li>Functions</li>
                 <li>Events</li>
-            </ul>
+            </ul></a>
         </td>
-        <td valign="top"><b>Mar 23</b><br>
-            <b>JavaScript Continued</b>
+        <td valign="top">
+                  <a href="https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/weekly_detail/week_7.html">
+
+        <b>Mar 23</b><br>
+<b>JavaScript Continued</b>
             <ul>
                 <li>Arrays</li>
                 <li>Loops</li>
                 <li>Objects</li>
-            </ul>   </a>      
+            </ul>  
+                        HW: Calculator (click for more details)</a>  
+
         </td>
     </tr>
 
