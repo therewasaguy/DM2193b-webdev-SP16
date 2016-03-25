@@ -134,6 +134,7 @@ We'll keep learning about JS including Functions, Events, Objects, Logic and (mo
 
 ### Events
 `element.addEventListener('click', myFunction, false);`
+https://developer.mozilla.org/en-US/docs/Web/Events
 
 ### Functions
 A function is a group of statements. When a property is part of an object, it's called a `method`.
