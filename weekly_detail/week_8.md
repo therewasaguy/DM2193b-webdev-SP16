@@ -10,7 +10,8 @@
 * **Package Control**
   * This is an extension that makes it easy to search and install Sublime Text Packages. 
   * Install Package Control here: https://packagecontrol.io/installation
-  * Some Example Packages:
+  * Then access it via Tools > Command Palette, and start typing Package Control.
+  * Let's install some packages:
     * **[HTML/CSS/JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)** - Make you code look nicer
     * **[HTML5 Snippets](https://packagecontrol.io/packages/HTML5)** - Syntax highlighting + Snippets
     * **[jQuery Snippets](https://packagecontrol.io/packages/jQuery)** - Syntax highlighting + Snippets
