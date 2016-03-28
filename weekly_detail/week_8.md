@@ -153,13 +153,12 @@ $(selector).show(speed,callback);
 $(selector).toggle(speed,callback);
 ```
 
-
 Read more about jQuery Effects
 http://www.w3schools.com/jquery/jquery_hide_show.asp
 
-#### In Class exercise
 
-Create a searchable list
 
 #### HW:
 Do [jQuery w3 Schools tutorial](http://www.w3schools.com/jquery/) and browse the documentation at https://api.jquery.com/
+
+Think about how to build off of our example from class to create a search filter.
