@@ -319,19 +319,19 @@
 
     <tr>
         <td valign="top">9</td>
-        <td valign="top"><b>Mar 28</b><br>
+        <td valign="top"><a href="https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/weekly_detail/week_8.html"><b>Mar 28</b><br>
             <b>JavaScript Continued</b>
             <ul>
-                <li>JSON & API's</li>
-                <li>HTML5 Forms</li>
-                <li>Running a local server</li>
-            </ul>            
+                <li>JS Objects</li>
+                <li>jQuery</li>
+            </ul>   </a>         
         </td>
         <td valign="top"><b>Mar 30</b><br>
-            <b>JS Libraries</b>
+            <b>CSS Frameworks</b>
             <ul>
-                <li>Intro to JQuery</li>
-                <li>Intro to p5.js</li>
+                <li>Intro to Bootstrap</li>
+                <li>Intro to Foundation</li>
+                
             </ul>
         </td>
     </tr>
@@ -340,12 +340,12 @@
         <td valign="top"><s><b>Apr 4</b></s> <em>Professor @ Web Audio Conference</em>
             <h4>This week, class meets on<br/>
             <b>FRIDAY April 8th, 2:30-4:20pm</b></h4><br/>
-            <b>CSS Frameworks</b>
+            <b>JSON & API's</b>
             <ul>
-                <li>HTML5 Boilerplate</li>
-                <li>Intro to Bootstrap</li>
-                <li>Intro to Foundation</li>
-            </ul>
+                <li>JSON & API's</li>
+                <li>HTML5 Forms</li>
+                <li>Running a local server</li>
+</ul>
         </td>
         <td valign="top">
             <s><b>Apr 6</b></s> <em>Professor @ Web Audio Conference</em>
