@@ -45,19 +45,11 @@ console.log("the name of the restaurant is " + restaurantData.name + " and it is
 // the name of the restaurant is Morimoto and it is located in New York
 ```
 
-## Sublime Text Features & Packages
+## Sublime Text Features
 * **[Snippets](http://docs.sublimetext.info/en/latest/extensibility/snippets.html)**
   * Reusable code snippets that you can trigger with a `tabTrigger`.
   * Snippets have an optional `scope`, for example you might have a scope for javascript files (`source.js`) and html files (`text.html`). [Here is a list of the available scopes](https://gist.github.com/iambibhas/4705378).
-* **Package Control**
-  * This is an extension that makes it easy to search and install Sublime Text Packages. 
-  * Install Package Control here: https://packagecontrol.io/installation
-  * Then access it via Tools > Command Palette, and start typing Package Control.
-  * Let's install some packages:
-    * **[HTML/CSS/JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)** - Make you code look nicer
-    * **[HTML5 Snippets](https://packagecontrol.io/packages/HTML5)** - Syntax highlighting + Snippets
-    * **[jQuery Snippets](https://packagecontrol.io/packages/jQuery)** - Syntax highlighting + Snippets
-    * Browse more [here](https://packagecontrol.io/browse/popular)
+
 
 ## jQuery
 
@@ -162,3 +154,23 @@ http://www.w3schools.com/jquery/jquery_hide_show.asp
 Do [jQuery w3 Schools tutorial](http://www.w3schools.com/jquery/) and browse the documentation at https://api.jquery.com/
 
 Think about how to build off of our example from class to create a search filter.
+
+
+---
+# Wednesday 3/30
+
+## jQuery (cont'd)
+
+## Sublime Text: Package Control
+  * This is an extension that makes it easy to search and install Sublime Text Packages. Packages include snippets and can start servers.
+  * Install Package Control here: https://packagecontrol.io/installation
+  * Then access it via Tools > Command Palette, and start typing Package Control.
+  * Let's install some packages:
+    * **[HTML/CSS/JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)** - Make you code look nicer
+    * **[HTML5 Snippets](https://packagecontrol.io/packages/HTML5)** - Syntax highlighting + Snippets
+    * **[jQuery Snippets](https://packagecontrol.io/packages/jQuery)** - Syntax highlighting + Snippets
+    * Browse more [here](https://packagecontrol.io/browse/popular)
+
+## Intro to Frameworks:
+* Bootstrap
+* Foundation
