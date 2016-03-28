@@ -172,24 +172,6 @@ Evaluating whether a statement is true or false can be very powerful. Operators 
 [Read more](http://www.w3schools.com/js/js_comparisons.asp)
 
 
-
-##### Objects { }
-Objects contain values with names. This is known as a "key : value" pair.
-```
-var restaurantData = {
-  name: "Morimoto",
-  city: "New York",
-  cuisine: "Japanese",
-  thumbsUp: 4,
-  thumbsDown: 1
-}
-
-console.log("the name of the restaurant is " + restaurantData.name + " and it is located in " + restaurantData.city);
-
-// returns:
-// the name of the restaurant is Morimoto and it is located in New York
-```
-
 ## Examples From Class
 https://www.dropbox.com/sh/71x0y0r8eag7yxv/AACb5W8V3DRuIIrbj4oJs59-a?dl=0
 
