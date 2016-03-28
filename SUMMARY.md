@@ -18,5 +18,5 @@
    * [Week 5](weekly_detail/week_5.md)
    * [Week 6](weekly_detail/week_6.md)
    * [Week 7](weekly_detail/week_7.md)
-   * Week 8
+   * [Week 8](weekly_detail/week_8.md)
 
