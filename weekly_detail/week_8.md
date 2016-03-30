@@ -159,7 +159,7 @@ Think about how to build off of our example from class to create a search filter
 ---
 # Wednesday 3/30
 
-## jQuery (cont'd)
+## GitHub checkin
 
 ## Sublime Text: Package Control
   * This is an extension that makes it easy to search and install Sublime Text Packages. Packages include snippets and can start servers.
@@ -171,6 +171,105 @@ Think about how to build off of our example from class to create a search filter
     * **[jQuery Snippets](https://packagecontrol.io/packages/jQuery)** - Syntax highlighting + Snippets
     * Browse more [here](https://packagecontrol.io/browse/popular)
 
+## Objects
+Preview: Fetching JSON data from API's like [metaweather](https://www.metaweather.com/api/location/44418/) and [FourSquare](http://api.foursquare.com)
+
+## Objects: In Class Exercise
+1. Create an HTML document with the following JS in a `<script>` tag:
+```
+var flavors = [
+	{
+		"name": "Rocky Road",
+		"id": "rocky_road",
+		"ingredients": ["vanilla ice cream", "chocolate chips", "marshmallows", "almonds"],
+		"allergies": ["dairy", "nuts"]
+	},
+
+	{
+		"name": "Vanilla",
+		"id": "vanilla",
+		"ingredients": ["milk", "cream", "sugar", "vanilla extract"],
+		"allergies": ["dairy"]
+	},
+
+	{
+		"name": "Strawberry Sorbet",
+		"id": "strawberry_sorbet",
+		"ingredients": ["water", "strawberries", "lemon juice", "sugar", "vanilla extract"],
+		"allergies": ["strawberries"]
+	},
+
+	{
+		"name": "Chocolate",
+		"id": "chocolate",
+		"ingredients": ["milk", "cocoa", "egg yolks", "sugar", "vanilla extract", "semisweet chocolate"],
+		"allergies": ["egg", "chocolate", "dairy"]
+	}
+];
+```
+2. Using JavaScript, display the following to the page:
+  - All of Rocky Road's ingredients, separated by a "|"
+  - The only allergy in Strawberry Sorbet 
+  - The first ingredient in Strawberry Sorbet
+  - The number of ingredients in Chocolate
+  - The name of every flavor (for loop and array.length are needed)
+
+## jQuery (cont'd)
+Revisit search filter example (full code [here](https://www.dropbox.com/sh/1nromfghwgfh6hf/AAAXgVFDYrhGWsVtlGuR1RgLa?dl=0))
+
+```
+// event listener
+$('#search').keyup( filterSearch );
+
+// event handler
+function filterSearch(e) {
+    // get value of the DOM element that triggered this event
+	var searchValue = $(this).val();
+
+    // if there is a value...
+	if (searchValue) {
+		// hide element (in 200 ms) if its .allergy contains the searchValue
+		$('.allergy:contains(' + searchValue + ')').parent().hide(200);
+
+		// if it does not contain the search value, show the element (in 200 ms)
+		$('.allergy:not( :contains(' + searchValue + ') )').parent().show(200);
+	}
+    
+    else {
+		// if there is no searchValue, show all elements with flavor class
+		$('.flavor').show(200);
+	}
+
+}
+```
+
 ## Intro to Frameworks:
 * Bootstrap
 * Foundation
+
+#### [Slides](https://docs.google.com/presentation/d/194ZbRxecL0ep4oBtV3i4Mr4W2QwAhJiasAfJAsgtIDY/edit?usp=sharing)
+
+##### Grid System, Media Queries / Breakpoints
+
+##### Components
+
+
+## HW:
+* Read:
+  * [Bootstrap vs Foundation comparison](http://www.sitepoint.com/grid-system-comparison-bootstrap-vs-foundation/)
+* Do:
+  * Bootstrap and/or Foundation tutorials on lynda.com, w3 Schools
+* Make:
+  * A single web page that uses jQuery and either Bootstrap or Foundation. It could be a preview of your final project, a revision of your calculator, or a fun little side project. Post to Slack #hw channel with #wk8b and include a link to the site + github.
+* Prepare:
+  * Final Project Proposals (due Monday April 11th):
+    * Project Plan
+    * Wireframe
+    * Site Map
+    * Style Guide
+
+## Reminders
+* Class meets on Friday 4/8 next week, 2:30-4:20 in **Room 807**
+* Upcoming Events at IDM:
+  * [Different Games Conference](https://www.eventbrite.com/e/different-games-conference-2016-tickets-23115571296)
+  * Meet & Greet Portfolio (Juniors/Seniors only) - May 3rd, but register [here](https://docs.google.com/forms/d/1lxLf3wdHyJ9uYBoBeDC3dd0TB_w96KxG4n0I8yWRC_Q/viewform?c=0&w=1&usp=send_form) by April 1st
