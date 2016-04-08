@@ -101,7 +101,6 @@ Here's the code we'll use to make a grid of buttons. Look at the CSS for each cl
 
 Notice how `btn` class center aligns text, and adds cursor, and active pseudoclasses. The `well` and `btn` both have rounded corners. How would we override these styles?
 
-Full code will be posted here.
 
 ### Bootstrap JavaScript Components
 Components use HTML `data-` attributes to pass data from elements that trigger a DOM event to the JavaScript event handler.
@@ -137,13 +136,17 @@ $('[data-toggle="popover"]').popover({
 });
 ```
 
-In class exercise: fun with Bootstrap
+
+## Code from class
+https://www.dropbox.com/sh/cpykct4f1mp79j5/AADkpiJ2v2HVSowwPktmQKq_a?dl=0
 
 ## HW: 
-* Final Project Proposals:
+* [Final Project Proposals](https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/assignments/final.html):
   * Project Plan
   * Wireframe
   * Site Map
   * Style Guide
   * ~4 minute presentation
   * Post a file to Slack #hw channel that links all of the above and the file should be named `<your_name>_-_final_project_proposal`
+
+More info about the Final Project can be found [here](https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/assignments/final.html).
