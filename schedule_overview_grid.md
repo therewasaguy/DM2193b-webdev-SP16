@@ -326,29 +326,29 @@
                 <li>jQuery</li>
             </ul>   </a>         
         </td>
-        <td valign="top"><b>Mar 30</b><br>
+        <td valign="top">
+        
+        <a href="https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/weekly_detail/week_8.html"><b>Mar 30</b><br>
             <b>CSS Frameworks</b>
             <ul>
                 <li>Intro to Bootstrap</li>
                 <li>Intro to Foundation</li>
                 
-            </ul>
+            </ul></a>
         </td>
     </tr>
     <tr>
         <td valign="top">10</td>
-        <td valign="top"><s><b>Apr 4</b></s> <em>Professor @ Web Audio Conference</em>
+        <td valign="top">
+        
+        <a href="https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/weekly_detail/week_9.html"><s><b>Apr 4</b></s> <em>Professor @ Web Audio Conference</em>
             <h4>This week, class meets on<br/>
             <b>FRIDAY April 8th, 2:30-4:20pm</b></h4><br/>
-            <b>JSON & API's</b>
-            <ul>
-                <li>JSON & API's</li>
-                <li>HTML5 Forms</li>
-                <li>Running a local server</li>
-</ul>
+</a>
         </td>
         <td valign="top">
-            <s><b>Apr 6</b></s> <em>Professor @ Web Audio Conference</em>
+<a href="https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/weekly_detail/week_9.html">
+<s><b>Apr 6</b></s> <em>Professor @ Web Audio Conference</em>
                         <h4>This week, class meets on<br/>
             <b>FRIDAY April 8th, 2:30-4:20pm</b></h4><br/>
             HW: 
@@ -356,7 +356,7 @@
                 <li>Framework Tutorials</li>
                 <li>Prepare Final Project Proposals</li>
 
-            </ul>
+            </ul></a>
             </td>
     </tr>
     <tr>
@@ -365,7 +365,14 @@
         <h4>Final Project Proposals</h4>
         </td>
         <td valign="top"><b>Apr 13</b><br>
-            <b>Framework Components</b>
+            <b>JSON & API's</b>
+            <ul>
+                <li>JSON & API's</li>
+                <li>HTML5 Forms</li>
+                <li>Running a local server</li>
+</ul>
+
+          <b>More Framework Components</b>
             <ul>
             <li>Customizing Components</li>
             <li>JavaScript Components</li>
