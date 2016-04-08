@@ -138,3 +138,12 @@ $('[data-toggle="popover"]').popover({
 ```
 
 In class exercise: fun with Bootstrap
+
+## HW: 
+* Final Project Proposals:
+  * Project Plan
+  * Wireframe
+  * Site Map
+  * Style Guide
+  * ~4 minute presentation
+  * Post a file to Slack #hw channel that links all of the above and the file should be named `<your_name>_-_final_project_proposal`
