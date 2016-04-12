@@ -214,10 +214,82 @@ function setup() {
 function search4sq(e) {
   // dont refresh the page
   e.preventDefault();
+
+  // to do...
 }
 ```
+
+You may remember we used a form to query the Spotify API [here](https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/weekly_detail/week_6.html). This time, rather than submit the form directly using the form's `action=""` attribute, we'll use JavaScript to make the actual query.
+
+
 ### AJAX
 AJAX stands for Asynchronous JavaScript and XML. It is a way to load content onto your page without reloading the entire page. It is often used to fetch data from an API.
 
-jQuery has an AJAX module that can help us make AJAX requests.
+jQuery has an AJAX module that can help us make AJAX requests. http://api.jquery.com/jquery.ajax/
 
+```
+$(document).ready(setup);
+
+function setup() {
+  $('#4sq-search').submit(search4sq);
+}
+
+function search4sq(e) {
+  // dont refresh the page
+  e.preventDefault();
+
+  // get searchQuery
+  var searchQuery = $('#search-query').val();
+
+  // construct the url to make our ajax request
+  var url = api_url + '?client_id=' + myClientID
+    + '&client_secret=' + mySecret
+    + '&v=20130815'
+    + '&ll=' + myLocation.latitude+ ',' + myLocation.longitude
+    + '&query=' + searchQuery
+
+  // make ajax request, with success and error callbacks
+  $.ajax(url, {
+    success: gotData,
+    error: onError
+  });
+
+}
+
+// callback to do something with the data
+function gotData(data) {
+  console.log(data);
+}
+
+// handle errors
+function onError(err) {
+  console.log(err);
+}
+```
+
+We can loop through all the venues in the response data to add markers to the map like this:
+```
+function gotData(data) {
+  console.log(data);
+
+  var venues = data.response.venues;
+
+  for (var i = 0; i < venues.length; i++) {
+
+    var venue = venues[i];
+
+    // add a marker to the map
+    var marker = new google.maps.Marker({
+      position: {
+        lat: venue.location.lat,
+        lng: venue.location.lng
+      },
+      map: map,
+      title: venue.name
+    });
+
+    // add click listener
+    marker.addListener('click', markerClicked);
+  }
+}
+```
