@@ -272,10 +272,14 @@ We can loop through all the venues in the response data to add markers to the ma
 function gotData(data) {
   console.log(data);
 
+  // this is an array of venue JSON objects
   var venues = data.response.venues;
 
+
+  // loop thru all the venues
   for (var i = 0; i < venues.length; i++) {
 
+    // current venue
     var venue = venues[i];
 
     // add a marker to the map
