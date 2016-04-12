@@ -188,3 +188,36 @@ https://api.foursquare.com/v2/venues/search
 
 You can register for your API Key (client_id and client_secret) here:
 https://foursquare.com/developers/apps
+
+Once you have an API key, you can get search results as JSON by entering the url above and filling in the query parameters.
+
+> aside: install pretty json chrome extension to make json look nice in your browser
+
+Let's add an HTML search field
+```
+  <form id="4sq-search">
+    <input type="text" id="search-query" placeholder="Search Foursquare">
+    <input type="submit" value="submit">
+  </form>
+```
+
+and add an event listener when we submit the form:
+
+```
+$(document).ready(setup);
+
+function setup() {
+  getLocation();
+  $('#4sq-search').submit(search4sq);
+}
+
+function search4sq(e) {
+  // dont refresh the page
+  e.preventDefault();
+}
+```
+### AJAX
+AJAX stands for Asynchronous JavaScript and XML. It is a way to load content onto your page without reloading the entire page. It is often used to fetch data from an API.
+
+jQuery has an AJAX module that can help us make AJAX requests.
+
