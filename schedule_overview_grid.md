@@ -364,33 +364,32 @@
         <td valign="top"><b>Apr 11</b><br>
         <h4>Final Project Proposals</h4>
         </td>
-        <td valign="top"><b>Apr 13</b><br>
+        <td valign="top"><a href="https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/weekly_detail/week_10.html"><b>Apr 13</b><br>
             <b>JSON & API's</b>
             <ul>
                 <li>JSON & API's</li>
                 <li>HTML5 Forms</li>
                 <li>Running a local server</li>
-</ul>
-
-          <b>More Framework Components</b>
-            <ul>
-            <li>Customizing Components</li>
-            <li>JavaScript Components</li>
-            <li>JQuery Mobile</li>
+</ul></a>
         </td>
     </tr>
 
     <tr>
         <td valign="top">12</td>
         <td valign="top"><b>Apr 18</b><br>
-            <b>Command Line & Node.js</b>
+          <b>More Framework Components</b>
+            <ul>
+            <li>Customizing Components</li>
+            <li>JavaScript Components</li>
+            <li>JQuery Mobile</li>
+<!--<b>Command Line & Node.js</b>
             <ul>
                 <li>Intro to Node.JS</li>
                 <li>Run a local server with node.js</li>
                 <li>Customizing Bootstrap source code</li>
                 <li>Gulp / Webpack</li>
                 <li>Bower</li>
-                <li>NPM</li>
+                <li>NPM</li> -->
             </ul>
         </td>
         <td valign="top"><b>Apr 20</b><br>
