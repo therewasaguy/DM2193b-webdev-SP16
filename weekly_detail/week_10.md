@@ -1,5 +1,10 @@
 # Wednesday 4/12
 
+## Wrap up final project presentations
+1. George
+2. Eric
+3. Zhijian
+
 ## API
 API stands for application program interface. It's like the building blocks for software—a set of protocols to interact with the data that powers the application.
 
