@@ -1,5 +1,7 @@
 #Monday 4/18
 
+## Style Guide & Grid System Discussion
+
 ## API's (continued from week 10)
 
 ### Foursquare API
