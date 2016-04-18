@@ -1,6 +1,10 @@
 #Monday 4/18
 
 ## Style Guide & Grid System Discussion
+References:
+  - [Web Style Guide: Design Grids](http://webstyleguide.com/wsg3/7-page-design/7-design-grids.html)
+  - [Starbucks Style Guide Promo Layouts](http://www.starbucks.com/static/reference/styleguide/)
+  - [Google Material Design](http://www.google.com/design/spec/material-design/introduction.html#introduction-goals)
 
 ## API's (continued from week 10)
 
