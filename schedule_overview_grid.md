@@ -376,13 +376,14 @@
 
     <tr>
         <td valign="top">12</td>
-        <td valign="top"><b>Apr 18</b><br>
-          <b>More Framework Components</b>
+        <td valign="top"><a href="https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/weekly_detail/week_11.html"><b>Apr 18</b><br>
+        API's Continued</a>
+<!--<b>More Framework Components</b>
             <ul>
             <li>Customizing Components</li>
             <li>JavaScript Components</li>
             <li>JQuery Mobile</li>
-<!--<b>Command Line & Node.js</b>
+<b>Command Line & Node.js</b>
             <ul>
                 <li>Intro to Node.JS</li>
                 <li>Run a local server with node.js</li>
@@ -393,7 +394,8 @@
             </ul>
         </td>
         <td valign="top"><b>Apr 20</b><br>
-            <b>CSS Preprocessors</b>
+            <b>Customizing Frameworks,
+            CSS Preprocessors</b>
             <ul>
                 <li>SCSS / SASS / LESS</li>
                 <li>Customizing frameworks</li>
