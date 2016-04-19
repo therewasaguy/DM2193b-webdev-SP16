@@ -132,7 +132,11 @@ function gotData(data) {
 }
 ```
 
-## In-Class Exercise Options:
+## Code from class
+* [GitHub](https://github.com/therewasaguy/dm2193-4sq-googlemaps) 
+* [Dropbox](https://www.dropbox.com/sh/uaud6iv1xdu6al4/AACn1DNpdSQdjJxH_HPqOW2xa?dl=0)
+
+## Exercise Options:
 - Customize the Google Maps Info Window to display custom information about the element you've clicked on
 - Play with Bootstrap or Foundation components to display information about the search results and to style the page
 
