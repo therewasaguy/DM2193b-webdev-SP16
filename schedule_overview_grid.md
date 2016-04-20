@@ -407,15 +407,18 @@
         <td valign="top">13</td>
         <td valign="top"><b>Apr 25</b><br>
 <li>Guest <a href="http://www.stefankaltenegger.com/">Stefan Kaltneggar</a> on Interaction Design for web and mobile </li>
+<li>Review HW</li>
 <li>Cool JavaScript Libraries</li>
-        </td>
+<li>HW: Prepare to present something that you learned (i.e. through a Learning Log) for the class on Wednesday
+</td>
         <td valign="top"><b>Apr 27</b><br>
-            <b>HTML Templates</b>
+          <b>Learning Log Presentations</b>
+<!--<b>Mobile</b>
             <ul>
                 <li>Handlebars</li>
                 <li>Web Components</li>
                 <li>React.js</li>
-            </ul>            
+            </ul>    -->        
         </td>
     </tr>
 
