@@ -266,6 +266,6 @@ We can generate Bootstrap or Foundation stylesheets and .scss variables from an 
 * http://callmenick.com/post/an-introduction-to-sass-scss
 
 ## HW (due Monday)
-* **Organism Analysis:** Pick a website and highlight three of its "organisms" aka components. What CSS classes does the site use to describe these organisms? How does the user interact with them? Create a post in the Slack #HW channel, title it #hw11a.
+* **Organism Analysis:** Pick a website and identify three of its "organisms" aka components. What CSS classes does the site use to describe these organisms? How does the user interact with them? Create a post in the Slack #HW channel, title it #hw11a.
 * **Read** Dan Mall's short article on [Element Collages](http://danielmall.com/articles/rif-element-collages/). Browse some of the collages on [this page](http://rif.superfriend.ly/) like Design System, Element Exploration, Header, Footer, Donate Dropdown, Donate Button, Navigation on small screens. 
 * **Organism Collage:** Customize Bootstrap or Foundation to incorporate the colors, fonts and grid system described by your Style Guide. Create a collage of three (or more) of the "molecules" or "organisms" that you plan to use in your website. These could be Bootstrap/Foundation components, or custom element combinations. Post a link to your website in the Slack #HW channel with hashtag #hw11b.
