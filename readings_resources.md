@@ -211,6 +211,8 @@
 * <a href="https://www.smashingmagazine.com/2011/06/following-a-web-design-process/">Web Design Process</a>
 * <a href="http://webdesign.tutsplus.com/articles/a-designers-introduction-to-agile-methodology--cms-23349">Introduction to Agile</a>
 * <a href="https://blog.udemy.com/agile-vs-waterfall/">Agile vs. Waterfall</a>
+* [101 Ways to Make Your Website More Awesome](https://www.awesomeweb.com/blog/make-website-awesome)
+* [atomicdesign.bradfrost.com](http://atomicdesign.bradfrost.com/table-of-contents/)
 
 ##### UX / Design
 * [User Experience Design: Facebook and how UI's twist your words](https://medium.com/user-experience-design-1/facebook-and-how-uis-twist-your-words-4ceedc5fd93)
