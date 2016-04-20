@@ -170,7 +170,7 @@ Let's compare Brad Frost's vision of a modular design system with the frameworks
 
 ##### Variables
 You can customize some of the variables on the "custom download" page. These variables are used by a **CSS pre-processor** and compiled to regular CSS.
-- [Customize Bootstrap](getbootstrap.com/customize/)
+- [Customize Bootstrap](http://getbootstrap.com/customize/)
 - [Customize Foundation](http://foundation.zurb.com/sites/download.html/#customizeFoundation)
 
 
@@ -262,5 +262,10 @@ We can generate Bootstrap or Foundation stylesheets and .scss variables from an 
 * Pick an image and upload it to http://www.lavishbootstrap.com/
 
 #### Further Reading
-http://www.hongkiat.com/blog/sublime-text-compiling-sass/
-http://callmenick.com/post/an-introduction-to-sass-scss
+* http://www.hongkiat.com/blog/sublime-text-compiling-sass/
+* http://callmenick.com/post/an-introduction-to-sass-scss
+
+## HW (due Monday)
+* **Organism Analysis:** Pick a website and highlight three of its "organisms" aka components. What CSS classes does the site use to describe these organisms? How does the user interact with them? Create a post in the Slack #HW channel, title it #hw11a.
+* **Read** Dan Mall's short article on [Element Collages](http://danielmall.com/articles/rif-element-collages/). Browse some of the collages on [this page](http://rif.superfriend.ly/) like Design System, Element Exploration, Header, Footer, Donate Dropdown, Donate Button, Navigation on small screens. 
+* **Organism Collage:** Customize Bootstrap or Foundation to incorporate the colors, fonts and grid system described by your Style Guide. Create a collage of three (or more) of the "molecules" or "organisms" that you plan to use in your website. These could be Bootstrap/Foundation components, or custom element combinations. Post a link to your website in the Slack #HW channel with hashtag #hw11b.
