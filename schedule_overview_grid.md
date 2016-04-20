@@ -406,7 +406,8 @@
     <tr>
         <td valign="top">13</td>
         <td valign="top"><b>Apr 25</b><br>
-            <b>Advanced JS: Module Patterns</b>
+<li>Guest <a href="http://www.stefankaltenegger.com/">Stefan Kaltneggar</a></li>
+<li>Cool JavaScript Libraries</li>
         </td>
         <td valign="top"><b>Apr 27</b><br>
             <b>HTML Templates</b>
