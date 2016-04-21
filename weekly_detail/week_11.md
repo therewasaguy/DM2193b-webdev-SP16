@@ -317,6 +317,7 @@ Check out the style.css file that was created in your CSS folder: it is Bootstra
 <!-- import our custom CSS which includes Bootsrap -->
 <link rel="stylesheet" href="css/style.css">
 ```
+- From here you can write scss in your scss/style.scss file and it will be compiled into css/style.css
 
 If you run into any issues, you can [download this template from Dropbox](https://www.dropbox.com/sh/j751hwjkumwjnxm/AABu-ST49giCGq3kKoZuOqcSa?dl=0).
 
