@@ -302,15 +302,15 @@ my_project/
 ```
 	"ignores": ["*.css", "*.js", "vendor"],
 ```
-- Download the [beta version of Bootstrap 4](https://github.com/twbs/bootstrap/tree/v4-dev/scss), which is switching from LESS to SASS. You can download the .zip [here](https://github.com/twbs/bootstrap/archive/v4-dev.zip). Unzip it and place it in your vendor folder.
+- Download the SASS port of Bootstrap from [here](https://github.com/twbs/bootstrap-sass) (here is the [zip file](https://github.com/twbs/bootstrap-sass/archive/v3.3.6.zip)). Unzip it and place it in your vendor folder.
 - Edit your style.scss file to import Bootstrap:
 ```
-@import "../vendor/bootstrap-4-dev/scss/bootstrap"; 
+@import "../vendor/bootstrap-sass-3.3.6/assets/stylesheets/bootstrap";
 ```
 Check out the style.css file that was created in your CSS folder: it is Bootstrap! That one line imports all of Bootstrap from the .scss file located at vendor/bootstrap-4-dev/scss/bootstrap.
 - Open that scss file: It simply imports .scss files in order. 
 - Add a line after `@import "variables";` where you can import your custom variables. Call it `@import "../../../scss/custom-variables";` This is the only modification that we will make to Bootstrap's actual source code, allowing us to override Bootstrap's default variables as needed from our own file that lives in the scss folder.
-- Create a file in `scss/` folder called `_custom-variables.scss`. This is where you can override Bootstrap's default variables. 
+- Create a file in `scss/` folder called `_custom-variables.scss`. This is where you can override Bootstrap's default variables.
 
 
 
