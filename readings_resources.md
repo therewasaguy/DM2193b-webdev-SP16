@@ -38,6 +38,8 @@
 * [Sass documentation](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 * Lynda.com: CSS with LESS and Sass with Joe Marini
 * Lynda.com: Foundation 4: Incorporating Sass and Compass with Jen Kramer
+* https://scotch.io/tutorials/getting-started-with-sass
+
 
 #### SASS Syntax highlighting in Sublime Text
 * [Install Package Manager for Sublime Text](https://sublime.wbond.net/installation)
