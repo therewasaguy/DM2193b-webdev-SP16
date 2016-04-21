@@ -262,8 +262,59 @@ We can generate Bootstrap or Foundation stylesheets and .scss variables from an 
 * Pick an image and upload it to http://www.lavishbootstrap.com/
 
 #### Further Reading
-* http://www.hongkiat.com/blog/sublime-text-compiling-sass/
-* http://callmenick.com/post/an-introduction-to-sass-scss
+* [Compiling SASS in Sublime Text](http://www.hongkiat.com/blog/sublime-text-compiling-sass/) 
+* [An introduction to SASS/SCSS](http://callmenick.com/post/an-introduction-to-sass-scss)
+* [Excellent getting started tutorial with interactive examples](https://scotch.io/tutorials/getting-started-with-sass)
+
+<span id="koala"></span> 
+### SASS with Koala (addendum) 
+For those who had issues with Compass, try [Koala](http://koala-app.com/) (thanks George for the recommendation!) which seems like a better maintained alternative.
+
+If you created a Bootstrap SASS project with Compass, Koala will throw an error because it is trying to import compass-specific modules. We'll go over this in class on Monday.
+
+So let's make a Bootstrap SASS project from scratch. Here's a recommended workflow:
+
+- Create a file structure for yourself like this:
+
+```
+my_project/
+    index.html
+    js/
+    css/
+    scss/
+        style.scss
+    vendor/
+```
+
+- Open Koala and drag the project folder into the sidebar.
+- Right click on the project folder icon, and choose Project Settings --> New Settings --> For SASS.
+- This will create `koala-config.json` which you can edit in a text editor. 
+- Uncomment and modify the mappings to fit your project structure. For example, our source (src) will be "scss" folder and our destination (dest) will be the css folder:
+```
+	"mappings": [
+		{	
+			"src": "scss",
+			"dest": "css"
+		}
+	],
+ ```
+- modify the "ignores" array to ignore the following files and folders: 
+```
+	"ignores": ["*.css", "*.js", "vendor"],
+```
+- Download the [beta version of Bootstrap 4](https://github.com/twbs/bootstrap/tree/v4-dev/scss), which is switching from LESS to SASS. You can download the .zip [here](https://github.com/twbs/bootstrap/archive/v4-dev.zip). Unzip it and place it in your vendor folder.
+- Edit your style.scss file to import Bootstrap:
+```
+@import "../vendor/bootstrap-4-dev/scss/bootstrap"; 
+```
+Check out the style.css file that was created in your CSS folder: it is Bootstrap! That one line imports all of Bootstrap from the .scss file located at vendor/bootstrap-4-dev/scss/bootstrap.
+- Open that scss file: It simply imports .scss files in order. 
+- Add a line after `@import "variables";` where you can import your custom variables. Call it `@import "../../../scss/custom-variables";` This is the only modification that we will make to Bootstrap's actual source code, allowing us to override Bootstrap's default variables as needed from our own file that lives in the scss folder.
+- Create a file in `scss/` folder called `_custom-variables.scss`. This is where you can override Bootstrap's default variables. 
+
+
+
+
 
 ## HW (due Monday)
 * **Organism Analysis:** Pick a website and identify three of its "organisms" (aka components, as defined by Brad Frost). What CSS classes does the site use to describe these organisms? How does the user interact with them? Create a post in the Slack #HW channel, title it #hw11a.
