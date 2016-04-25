@@ -152,3 +152,4 @@ Resources:
 * Longer more detailed intro - https://greensock.com/get-started-js
 * Download - https://greensock.com/gsap
 * Cheat Sheet - [link](https://ihatetomatoes.net/wp-content/uploads/2015/08/GreenSock-Cheatsheet2.png)
+
