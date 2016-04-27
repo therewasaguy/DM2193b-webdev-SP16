@@ -185,7 +185,7 @@ Fortunately, just like HTML element attributes, we can style SVG's with CSS, and
         var inc = 0.9;
 
         // animate every 30 milliseconds
-        setInterval(animateCircle, 60);
+        setInterval(animateCircle, 30);
          
         function animateCircle() {
           // change circle radius
@@ -200,7 +200,9 @@ Fortunately, just like HTML element attributes, we can style SVG's with CSS, and
     </script>
 ```
 
-Some of GreenSock's plugins like [drawSVG](https://greensock.com/drawSVG) and [morphSVG](https://greensock.com/morphSVG) are not free, but there are open source alternatives.
+Fortunately there are JavaScript libraries that deal with SVG animation.
+
+We've seen some of these as part of GreenSock's GSAP. Some of their plugins like [drawSVG](https://greensock.com/drawSVG) and [morphSVG](https://greensock.com/morphSVG) are not free, but there are open source alternatives:
 
 * **[Vivus](http://maxwellito.github.io/vivus/)** is an open-source alternative to drawSVG.
 * **[SVG Morpheus](https://github.com/alexk111/SVG-Morpheus)** is an open-source alternative to morphSVG
@@ -208,10 +210,44 @@ Some of GreenSock's plugins like [drawSVG](https://greensock.com/drawSVG) and [m
 
 
 ## Vivus
+[Vivus](http://maxwellito.github.io/vivus/) is a library for drawing SVG's. By default, it draws the SVG when you scroll to that point in the page, but you can change this with an options object, and manipulate the animation yourself if you want.
 
+Include Vivus on your page:
+```
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vivus/0.3.0/vivus.js"></script>
+```
 
+Include the SVG on your page. We'll use an example from [iconfinder](https://www.iconfinder.com/icons/315521/face_laughing_icon#size=128), or create your own.
 
+```
+<svg id="my-svg" ...
+```
 
+Vivus animates paths or lines, which have a "stroke". But it does not animate "fill". So in our CSS, we need to ensure that our SVG element has no fill, and has a stroke. These are SVG-specific styles.
+```
+      svg * {
+        fill-opacity: 0;
+        transition: fill-opacity 1s;
+        stroke:purple;
+        stroke-width:0.1;
+      }
+
+      svg.finished * {
+        /*fill-opacity: 1;*/
+      }
+```
+
+From here, we tell Vivus to do its magic on our SVG:
+
+```
+        var vivus1 = new Vivus('my-svg', {
+          duration:300
+        }, function(r) {
+          // optional callback adds class "finished" when done
+          vivus1.el.classList.add('finished');
+        });
+
+```
 
 More SVG JS Libraries:
 * [My Animated Logo library](https://github.com/NYUMusEdLab/animated-logo) (work in progress)
@@ -223,3 +259,4 @@ Apps for SVG Creation:
 * Inkscape is a free app for Mac, Windows and Linux
 * Adobe Illustrator is the industry standard
 
+>> [Single Page example with Bootstrap ScrollSpy](https://www.dropbox.com/sh/kpxrilf7v1byccw/AACL2aQP5He73yc2jtgodTgCa?dl=0)
