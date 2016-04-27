@@ -153,3 +153,73 @@ Resources:
 * Download - https://greensock.com/gsap
 * Cheat Sheet - [link](https://ihatetomatoes.net/wp-content/uploads/2015/08/GreenSock-Cheatsheet2.png)
 
+#Wednesday
+<span id="svg"></span>
+
+## SVG Animation
+Animation with SVG (Scalable Vector Graphics) is very powerful. We render raster images (jpg, png, gif) by storing information about every pixel. But with SVG, we store information about each geometric shape in XML.
+
+```
+    <svg id="circle" viewBox="0 0 120 120" version="1.1"
+      xmlns="http://www.w3.org/2000/svg">
+      <circle cx="60" cy="60" r="50"/>
+    </svg>
+```
+
+### SVG `<animate>`
+SVG has an `<animate>` property that can be used like this:
+https://developer.mozilla.org/en-US/docs/Web/SVG/Element/animate
+
+It is powerful, but if you want to do complex animations it can be a lot of work.
+
+Fortunately, just like HTML element attributes, we can style SVG's with CSS, and manipulate SVG attributes with JavaScript. For example:
+
+```
+    <svg viewBox="0 0 120 120" version="1.1"
+      xmlns="http://www.w3.org/2000/svg">
+      <circle id="circle-elt" cx="60" cy="60" r="50"/>
+    </svg>
+
+    <script>
+        var c = document.getElementById('circle-elt');
+        var inc = 0.9;
+
+        // animate every 30 milliseconds
+        setInterval(animateCircle, 60);
+         
+        function animateCircle() {
+          // change circle radius
+          c.attributes.r.value *= inc;
+
+          if (c.attributes.r.value <= 1) {
+            inc = 1.1;
+          } else if (c.attributes.r.value >= 100) {
+            inc = 0.9;
+          }
+        }
+    </script>
+```
+
+Some of GreenSock's plugins like [drawSVG](https://greensock.com/drawSVG) and [morphSVG](https://greensock.com/morphSVG) are not free, but there are open source alternatives.
+
+* **[Vivus](http://maxwellito.github.io/vivus/)** is an open-source alternative to drawSVG.
+* **[SVG Morpheus](https://github.com/alexk111/SVG-Morpheus)** is an open-source alternative to morphSVG
+
+
+
+## Vivus
+
+
+
+
+
+More SVG JS Libraries:
+* [My Animated Logo library](https://github.com/NYUMusEdLab/animated-logo) (work in progress)
+* [SVG Morpheus](https://github.com/alexk111/SVG-Morpheus) - morph between SVG's 
+* [Snap.SVG](http://snapsvg.io/)
+* D3.js - a library for data visualization and so much more
+
+Apps for SVG Creation:
+* Inkscape is a free app for Mac, Windows and Linux
+* Adobe Illustrator is the industry standard
+
