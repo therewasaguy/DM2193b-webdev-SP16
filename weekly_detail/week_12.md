@@ -260,3 +260,19 @@ Apps for SVG Creation:
 * Adobe Illustrator is the industry standard
 
 >> [Single Page example with Bootstrap ScrollSpy](https://www.dropbox.com/sh/kpxrilf7v1byccw/AACL2aQP5He73yc2jtgodTgCa?dl=0)
+
+# HW:
+Work on your final, come to class on Monday with a mockup and questions prepared to get feedback from your classmates.
+
+Next class we will continue Learning Log presentations from those who did not get a chance to present this time:
+
+* Joy
+* George
+* Jamie
+* Nicole
+* Stephen
+* James C
+* Yuening
+* Cindy
+* Camille
+* Susie
