@@ -6,11 +6,35 @@ Re-create your midterm from scratch, or start a new project, using a front-end f
 
 
 ## Final Presentation Order for 5/9 and 5/11
-Edit the Gist [here](https://gist.github.com/therewasaguy/9678d7a43be5093b545f258a921539e7) to sign up for a slot, or we'll assign them [randomly](http://therewasaguy.github.io/dm2193-random/).
+
+Tyler
+Echo
+George
+Eric
+Polina
+Jamie
+Grace
+Nicole
+Susie
+
+Stephen
+Camille
+Joon Hee
+James C
+James T
+Zhijian
+Cindy
+Yuening
+Joy
 
 
-## Presentations (Monday 4/11/2016)
+<!--
+## Monday 4/11/2016
 Short presentations (4 minutes total, including time for feedback). Focus on the goal, audience, and any supporting materials that may help convey the idea of your website. Supporting materials could include aspects of your Project Plan (i.e. Competitive Analysis of similar websites), Wireframes, Site Map, Style Guide, and/or Mood Board. You do not need to have all of these documents finalized but should have at least two of them ready to share with the class for feedback.
+-->
+
+## Final Presentations
+Focus on the goal, audience, and any supporting materials that may help convey the idea of your website. What is the goal of your website, and how do the design decisions you've made support that goal? What JS libraries did you use, and why? What were some of the challenges you faced along the way, and how did you address these challenges?
 
 ## Final Format:
 Upload one file (a PDF or Slack Post) to the HW channel. Put the hashtag #midterm in your message. The file should **link to** each of the following deliverables—if you need to upload files, upload them to your server (not to Slack).
