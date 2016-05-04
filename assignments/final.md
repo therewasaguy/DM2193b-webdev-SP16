@@ -6,7 +6,7 @@ Re-create your midterm from scratch, or start a new project, using a front-end f
 
 
 ## Final Presentations
-Focus on the goal, audience, and any supporting materials that may help convey the idea of your website. What is the goal of your website, and how do the design decisions you've made support that goal? What JS libraries did you use, and why? What were some of the challenges you faced along the way, and how did you address these challenges?
+Focus on the goal, audience, and any supporting materials that may help convey the idea of your website. What is the goal of your website, and how do the design decisions you've made support that goal? What JS libraries did you use, and why? What were some of the challenges you faced along the way, and how did you address these challenges? How does your site behave across different types of devices?
 
 ## Final Presentation Order for 5/9 and 5/11
 
