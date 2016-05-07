@@ -15,12 +15,13 @@ Focus on the goal, audience, and any supporting materials that may help convey t
 * Tyler
 * Echo
 * George
-* Eric
 * Polina
 * Jamie
 * Grace
 * Nicole
 * Susie
+* Joy
+* Eric
 
 ##### Wednesday May 11th, 2:30 - 4:20
 * Stephen
@@ -31,7 +32,6 @@ Focus on the goal, audience, and any supporting materials that may help convey t
 * Zhijian
 * Cindy
 * Yuening
-* Joy
 
 
 <!--
