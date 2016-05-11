@@ -12,3 +12,7 @@
 *Due Sunday 5/15 11:59pm, 3pts each*
 - Revise your final based on critique. Write a paragraph describing what you changed. Direct message me with a link to the code and your description of the changes. Bonus points for showing the code changes using GitHub diff.
 - Do a new small project that uses one of the ideas from a classmate's learning log. Direct message me with a link to the code and a short paragraph describing the project. You can do multiple.
+
+
+## Feedback
+[Please give me anonymous feedback about how I can improve this class and my teaching](https://docs.google.com/forms/d/1uebprQWCUoYe3nnxY9D7zR6NEgXbg5vvMO0cmm1Hrmw/)
